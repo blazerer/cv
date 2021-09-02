@@ -4,21 +4,27 @@ Codeforces, Topcoder
 
 FB, IG, VK
 
-## Technical Experience
+## 💾 Technical Experience
+
+## 🎓 Education
+### Yandex Data Analysis School
+
+### Sevastopol National University of Nuclear Energy and Industry
 
 ## 💬 Pesonal qualities
-• Can immerse in any area
-Languages
+* Languages: Russian, English, Ukrainian
+* Communicative
+* Can immerse in any area
+* Thoughtful
 
 
-##Education
 
 
 ## 🏆 Accomplishments
 • 5 years of competitive programming (SEERC 2010-2014)
 
 
-## 🏆 Outside Of Work
+## 🎸 Outside Of Work
 * Development of telegram-bot for learning guitar: @MusicPracticeBot
 * Playing guitars
 * travel
