@@ -1,3 +1,34 @@
+Email, LinkedIn
+
+Codeforces, Topcoder
+
+FB, IG, VK
+
+##Technical Experience
+
+##💬 Pesonal qualities
+• Can immerse in any area
+Languages
+
+
+##Education
+
+
+##🏆 Accomplishments
+• 5 years of competitive programming (SEERC 2010-2014)
+
+
+##🏆 Outside Of Work
+* Development of telegram-bot for learning guitar: @MusicPracticeBot
+* Playing guitars
+* travel
+* swimming/powerlifting/Snowboard
+* watching football
+• Quests, boardgames
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/blazerer/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
