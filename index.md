@@ -1,32 +1,41 @@
+# Roman Peshkurov
+
+_Software engineer based in London, United Kingdom_ <br>
+
 [Email](mailto:roman.peshkurov@gmail.com), [LinkedIn](https://www.linkedin.com/in/romanpeshkurov)
 
 ## 💾 Technical Experience
-**Software development engineer** @ Facebook (Dec 2020 - Present) <br>
+_**Software development engineer** @ Facebook (Dec 2020 - Present)_ <br>
 * Implementing rules for detection of fraudulent activities
 * Training models for prevention of malicious actors onbording 
+* **Technologies used**:
 
 **Technical lead** @ Yandex.Auto (Jun 2019 - Nov 2020) <br>
 * Service’s dashboards and metrics calculation jobs
 * Self-developed push-service for devices without google services
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
+* **Technologies used**:
 
 **Senior software development engineer** @ Yandex.Translator (May 2018 - Jun 2019) <br>
 * Secure data aggregation pipeline for keyboard application
 * Improving translation quality on few languages via training new types of neural models (request for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
+* **Technologies used**:
  
 **Software development engineer** @ Yandex.Appmetrica (Mar 2015 - May 2018) <br>
 * Distributed fault-tolerant data pipeline for real-time processing (40·109 rows/day) via proprietary solutions
 * Receiving servers layer (140·103 rps via HTTPS in peak)
 * Various APIs for internal/external usage
 * MR-jobs, utils for monitoring and testing
+* **Technologies used**:
 
 **Software development engineer** @ Moduleworks 3ax Team (Mar 2012 - Feb 2015) <br>
 * Development of libraries for CAD/CAM software
 * Algorithms for toolpath smoothing
 * Multiaxis roughing strategy, 3-ax roughing toolpath generation algorithms
 * Implementation and refactoring of different logic components
+* **Technologies used**:
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) (Sep 2015 - Jun 2017) <br>
