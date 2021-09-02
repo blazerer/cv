@@ -1,45 +1,45 @@
 [Email](mailto:roman.peshkurov@gmail.com), [LinkedIn](https://www.linkedin.com/in/romanpeshkurov)
 
 ## 💾 Technical Experience
-**Software development engineer** @ Facebook (Dec 2020 - Present)
+**Software development engineer** @ Facebook (Dec 2020 - Present) <br>
 * Implementing rules for detection of fraudulent activities
 * Training models for prevention of malicious actors onbording 
 
-**Technical lead** @ Yandex.Auto (Jun 2019 - Nov 2020)
+**Technical lead** @ Yandex.Auto (Jun 2019 - Nov 2020) <br>
 * Service’s dashboards and metrics calculation jobs
 * Self-developed push-service for devices without google services
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
 
-**Senior software development engineer** @ Yandex.Translator (May 2018 - Jun 2019)
+**Senior software development engineer** @ Yandex.Translator (May 2018 - Jun 2019) <br>
 * Secure data aggregation pipeline for keyboard application
 * Improving translation quality on few languages via training new types of neural models (request for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
  
-**Software development engineer** @ Yandex.Appmetrica (Mar 2015 - May 2018)
+**Software development engineer** @ Yandex.Appmetrica (Mar 2015 - May 2018) <br>
 * Distributed fault-tolerant data pipeline for real-time processing (40·109 rows/day) via proprietary solutions
 * Receiving servers layer (140·103 rps via HTTPS in peak)
 * Various APIs for internal/external usage
 * MR-jobs, utils for monitoring and testing
 
-**Software development engineer** @ Moduleworks 3ax Team (Mar 2012 - Feb 2015)
+**Software development engineer** @ Moduleworks 3ax Team (Mar 2012 - Feb 2015) <br>
 * Development of libraries for CAD/CAM software
 * Algorithms for toolpath smoothing
 * Multiaxis roughing strategy, 3-ax roughing toolpath generation algorithms
 * Implementation and refactoring of different logic components
 
 ## 🎓 Education
-**Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) (Sep 2015 - Jun 2017)
+**Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) (Sep 2015 - Jun 2017) <br>
 * Theory of computation
 * Machine learning
 * Data processing in external memory
 
-**Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014)
+**Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014) <br>
 * Software development 
 * Сomputer architecture
 * Databases
 
-## 🏆 Achievements
+## 🏆 Achievements <br>
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
 * [Topcoder](https://www.topcoder.com/members/blazerer/details/?track=DATA_SCIENCE&subTrack=SRM) max rating: **1808** (2014)
 * ACM ICPC programming competitions at university level: **1st** (2010 - 2014)
@@ -52,13 +52,13 @@
 * International summer school of programming in Sevastopol: **participant** (2010 - 2012)
 * Internal Yandex credit scoring contest: **2nd** (2017)
 
-## 💬 Pesonal qualities
+## 💬 Pesonal qualities <br>
 * Languages: Russian, English, Ukrainian
 * Communicative
 * Can immerse in any area
 * Thoughtful
 
-## 🎸 Outside Of Work
+## 🎸 Outside Of Work <br>
 * [FB](https://www.facebook.com/MrBlazerer)
 * [IG](https://www.instagram.com/blazerer_about_everything/) from travels
 * Blog in russian about music gigs at [VK](https://vk.com/blazerer_about_music)
