@@ -1,23 +1,17 @@
-Email, LinkedIn
-
-FB, IG, VK
+[Email](mailto:roman.peshkurov@gmail.com), [LinkedIn](https://www.linkedin.com/in/romanpeshkurov)
 
 ## 💾 Technical Experience
 
 ## 🎓 Education
-#### Master program in computer science and data analysis
+### Master program in computer science and data analysis
 Yandex Data Analysis School (Sep 2015 - Jun 2017)
+* Theory of computation
+* Machine learning
 
-#### Master degree in computer engineering
+### Master degree in computer engineering
 Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014)
-
-#### Yandex summer school in distributed computing Participant (Summer 2011)
-
-## 💬 Pesonal qualities
-* Languages: Russian, English, Ukrainian
-* Communicative
-* Can immerse in any area
-* Thoughtful
+* Software development 
+* Сomputer architecture
 
 ## 🏆 Achievements
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
@@ -32,7 +26,14 @@ Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 20
 * International summer school of programming in Sevastopol: **participant** (2010 - 2012)
 * Internal Yandex credit scoring contest: **2nd** (2017)
 
+## 💬 Pesonal qualities
+* Languages: Russian, English, Ukrainian
+* Communicative
+* Can immerse in any area
+* Thoughtful
+
 ## 🎸 Outside Of Work
+FB, IG, VK
 * Development of telegram-bot for learning guitar: @MusicPracticeBot
 * Playing guitars
 * Travel
