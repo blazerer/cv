@@ -16,7 +16,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
 * **Technologies used**:
-* <details><summary> Examples: </summary>
+<details><summary> Examples: </summary>
 <p>
 
 #### yes, even hidden code blocks!
@@ -34,7 +34,7 @@ print("hello world!")
 * Improving translation quality on few languages via training new types of neural models (request for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
 * **Technologies used**:
-* <details><summary> Examples: </summary>
+<details><summary> Examples: </summary>
 <p>
 
 #### yes, even hidden code blocks!
@@ -52,7 +52,7 @@ print("hello world!")
 * Various APIs for internal/external usage
 * MR-jobs, utils for monitoring and testing
 * **Technologies used**:
-* <details><summary> Examples: </summary>
+<details><summary> Examples: </summary>
 <p>
 
 #### yes, even hidden code blocks!
@@ -70,7 +70,7 @@ print("hello world!")
 * Multiaxis roughing strategy, 3-ax roughing toolpath generation algorithms
 * Implementation and refactoring of different logic components
 * **Technologies used**:
-* <details><summary> Examples: </summary>
+<details><summary> Examples: </summary>
 <p>
 
 #### yes, even hidden code blocks!
