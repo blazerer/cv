@@ -4,9 +4,9 @@ Codeforces, Topcoder
 
 FB, IG, VK
 
-##Technical Experience
+## Technical Experience
 
-##💬 Pesonal qualities
+## 💬 Pesonal qualities
 • Can immerse in any area
 Languages
 
@@ -14,11 +14,11 @@ Languages
 ##Education
 
 
-##🏆 Accomplishments
+## 🏆 Accomplishments
 • 5 years of competitive programming (SEERC 2010-2014)
 
 
-##🏆 Outside Of Work
+## 🏆 Outside Of Work
 * Development of telegram-bot for learning guitar: @MusicPracticeBot
 * Playing guitars
 * travel
