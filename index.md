@@ -2,7 +2,7 @@
 
 _Software engineer based in London, United Kingdom_ <br>
 
-[Email](mailto:roman.peshkurov@gmail.com), [LinkedIn](https://www.linkedin.com/in/romanpeshkurov)
+[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/romanpeshkurov) / [Github](https://github.com/blazerer)
 
 ## 💾 Technical Experience
 **Software development engineer** @ Facebook _(Dec 2020 - Present)_ <br>
@@ -18,16 +18,12 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Technologies used**:
 <details><summary> Examples: </summary>
 <p>
-
-#### yes, even hidden code blocks!
-
 ```python
 print("hello world!")
 ```
-
 </p>
 </details>
-<br>
+<br><br>
 
 **Senior software development engineer** @ Yandex.Translator _(May 2018 - Jun 2019)_ <br>
 * Secure data aggregation pipeline for keyboard application
@@ -36,16 +32,12 @@ print("hello world!")
 * **Technologies used**:
 <details><summary> Examples: </summary>
 <p>
-
-#### yes, even hidden code blocks!
-
 ```python
 print("hello world!")
 ```
-
 </p>
 </details>
-<br>
+<br><br>
  
 **Software development engineer** @ Yandex.Appmetrica _(Mar 2015 - May 2018)_ <br>
 * Distributed fault-tolerant data pipeline for real-time processing (40·109 rows/day) via proprietary solutions
@@ -55,16 +47,12 @@ print("hello world!")
 * **Technologies used**:
 <details><summary> Examples: </summary>
 <p>
-
-#### yes, even hidden code blocks!
-
 ```python
 print("hello world!")
 ```
-
 </p>
 </details>
-<br>
+<br><br>
 
 **Software development engineer** @ Moduleworks 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 * Development of libraries for CAD/CAM software
@@ -74,22 +62,20 @@ print("hello world!")
 * **Technologies used**:
 <details><summary> Examples: </summary>
 <p>
-
-#### yes, even hidden code blocks!
-
 ```python
 print("hello world!")
 ```
-
 </p>
 </details>
-<br>
+<br><br>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
 * Theory of computation
 * Machine learning
 * Data processing in external memory
+<br><br>
+
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
 * Software development 
