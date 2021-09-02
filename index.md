@@ -16,7 +16,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
 * **Technologies used**:
-<details><summary> Examples: </summary>
+* <details><summary> Examples: </summary>
 <p>
 
 #### yes, even hidden code blocks!
