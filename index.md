@@ -2,29 +2,30 @@
 
 ## 💾 Technical Experience
 **Software development engineer** @ Facebook (Dec 2020 - Present)
+* 1
 
 **Technical lead** @ Yandex.Auto (Jun 2019 - Nov 2020)
+* 1
 
 **Senior software development engineer** @ Yandex.Translator (May 2018 - Jun 2019)
-
+* 1
+ 
 **Software development engineer** @ Yandex.Appmetrica (Mar 2015 - May 2018)
+* 1
 
 **Software development engineer** @ Moduleworks 3ax Team (Mar 2012 - Feb 2015)
-
-Development of libraries for CAD/CAM software
+* Development of libraries for CAD/CAM software
 
 ## 🎓 Education
-**Master program in computer science and data analysis**
-
-Yandex Data Analysis School (Sep 2015 - Jun 2017)
+**Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) (Sep 2015 - Jun 2017)
 * Theory of computation
 * Machine learning
+* Data processing in external memory
 
-**Master degree in computer engineering**
-
-Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014)
+**Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014)
 * Software development 
 * Сomputer architecture
+* Databases
 
 ## 🏆 Achievements
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
