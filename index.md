@@ -8,14 +8,14 @@ _Software engineer based in London, United Kingdom_ <br>
 **Software development engineer** @ Facebook _(Dec 2020 - Present)_ <br>
 * Implementing rules for detection of fraudulent activities
 * Training models for prevention of malicious actors onbording 
-* **Technologies used**:
+* **Tools**:
 
 **Technical lead** @ Yandex.Auto _(Jun 2019 - Nov 2020)_ <br>
 * Service’s dashboards and metrics calculation jobs
 * Self-developed push-service for devices without google services
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
-* **Technologies used**:
+* **Tools**:
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -29,7 +29,7 @@ print("hello world!")
 * Secure data aggregation pipeline for keyboard application
 * Improving translation quality on few languages via training new types of neural models (request for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
-* **Technologies used**:
+* **Tools**:
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -44,7 +44,7 @@ print("hello world!")
 * Receiving servers layer (140·103 rps via HTTPS in peak)
 * Various APIs for internal/external usage
 * MR-jobs, utils for monitoring and testing
-* **Technologies used**:
+* **Tools**:
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -59,7 +59,7 @@ print("hello world!")
 * Algorithms for toolpath smoothing
 * Multiaxis roughing strategy, 3-ax roughing toolpath generation algorithms
 * Implementation and refactoring of different logic components
-* **Technologies used**:
+* **Tools used**:
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -74,14 +74,16 @@ print("hello world!")
 * Theory of computation
 * Machine learning
 * Data processing in external memory
+* **Tools**: C++14, Python, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
 <br><br>
-
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
 * Software development 
 * Сomputer architecture
 * Databases
+* **Tools**: C/C++03, MySQL, PHP, AutoCAD
 
+<br><br>
 ## 🏆 Achievements <br>
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
 * [Topcoder](https://www.topcoder.com/members/blazerer/details/?track=DATA_SCIENCE&subTrack=SRM) max rating: **1808** (2014)
@@ -95,17 +97,19 @@ print("hello world!")
 * International summer school of programming in Sevastopol: **participant** (2010 - 2012)
 * Internal Yandex credit scoring contest: **2nd** (2017)
 
-## 💬 Pesonal qualities <br>
+<br><br>
+## 💬 Pesonal Qualities <br>
 * Languages: Russian, English, Ukrainian
 * Communicative
 * Can immerse in any area
 * Thoughtful
 
+<br><br>
 ## 🎸 Outside Of Work <br>
 * [FB](https://www.facebook.com/MrBlazerer)
 * [IG](https://www.instagram.com/blazerer_about_everything/) from travels
 * Blog in russian about music gigs at [VK](https://vk.com/blazerer_about_music)
 * Playing guitars
 * Development of telegram-bot for learning guitar CAGED system @MusicPracticeBot
-* Swimming, powerlifting, snowboarding
+* Swimming, snowboarding
 * Watching football, escape rooms, boardgames, pub quizzes
