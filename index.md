@@ -1,15 +1,17 @@
 Email, LinkedIn
 
-Codeforces, Topcoder
-
 FB, IG, VK
 
 ## 💾 Technical Experience
 
 ## 🎓 Education
-### Yandex Data Analysis School
+#### Master program in computer science and data analysis
+Yandex Data Analysis School (Sep 2015 - Jun 2017)
 
-### Sevastopol National University of Nuclear Energy and Industry
+#### Master degree in computer engineering
+Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014)
+
+#### Yandex summer school in distributed computing Participant (Summer 2011)
 
 ## 💬 Pesonal qualities
 * Languages: Russian, English, Ukrainian
@@ -17,58 +19,23 @@ FB, IG, VK
 * Can immerse in any area
 * Thoughtful
 
-
-
-
-## 🏆 Accomplishments
-• 5 years of competitive programming (SEERC 2010-2014)
-
+## 🏆 Achievements
+* [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
+* [Topcoder](https://www.topcoder.com/members/blazerer/details/?track=DATA_SCIENCE&subTrack=SRM) max rating: **1808** (2014)
+* ACM ICPC programming competitions at university level: **1st** (2010 - 2013)
+* ACM ICPC all-ukrainian programming contests at southern regions: **2nd** (2011), **3rd** (2012 - 2013)
+* ACM ICPC world semifinal at SEERC: **participant** (2010-2013)
+* Vekua Cup onsite: **3rd** (2013)
+* International students olympiad of programming KPI-OPEN: **high achievements** (2010 - 2011)
+* International students olympiad of programming Osipovsky Cup: **high achievements** (2011 - 2012)
+* Open winter programming school in Kharkov: **participant** (2010 - 2013)
+* International summer school of programming in Sevastopol: **participant** (2010 - 2012)
+* Internal Yandex credit scoring contest: **2nd** (2017)
 
 ## 🎸 Outside Of Work
 * Development of telegram-bot for learning guitar: @MusicPracticeBot
 * Playing guitars
-* travel
-* swimming/powerlifting/Snowboard
-* watching football
-• Quests, boardgames
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/blazerer/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blazerer/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Travel
+* Swimming, powerlifting, snowboard
+* Watching football
+* Escape rooms, quizes, boardgames
