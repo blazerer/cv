@@ -16,12 +16,35 @@ _Software engineer based in London, United Kingdom_ <br>
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
 * **Technologies used**:
+* <details><summary> Examples: </summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
 
 **Senior software development engineer** @ Yandex.Translator _(May 2018 - Jun 2019)_ <br>
 * Secure data aggregation pipeline for keyboard application
 * Improving translation quality on few languages via training new types of neural models (request for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
 * **Technologies used**:
+* <details><summary> Examples: </summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
  
 **Software development engineer** @ Yandex.Appmetrica _(Mar 2015 - May 2018)_ <br>
 * Distributed fault-tolerant data pipeline for real-time processing (40·109 rows/day) via proprietary solutions
@@ -29,6 +52,17 @@ _Software engineer based in London, United Kingdom_ <br>
 * Various APIs for internal/external usage
 * MR-jobs, utils for monitoring and testing
 * **Technologies used**:
+* <details><summary> Examples: </summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
 **Software development engineer** @ Moduleworks 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 * Development of libraries for CAD/CAM software
@@ -36,6 +70,17 @@ _Software engineer based in London, United Kingdom_ <br>
 * Multiaxis roughing strategy, 3-ax roughing toolpath generation algorithms
 * Implementation and refactoring of different logic components
 * **Technologies used**:
+* <details><summary> Examples: </summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
