@@ -1,14 +1,24 @@
 [Email](mailto:roman.peshkurov@gmail.com), [LinkedIn](https://www.linkedin.com/in/romanpeshkurov)
 
 ## 💾 Technical Experience
+**Software development engineer** @ Facebook (Dec 2020 - Present)
+
+**Technical lead** @ Yandex.Auto (Jun 2019 - Nov 2020)
+
+**Senior software development engineer** @ Yandex.Translator (May 2018 - Jun 2019)
+
+**Software development engineer** @ Yandex.Appmetrica (Mar 2015 - May 2018)
+
+**Software development engineer** @ Moduleworks 3ax Team (Mar 2012 - Feb 2015)
+Development of libraries for CAD/CAM software
 
 ## 🎓 Education
-### Master program in computer science and data analysis
+**Master program in computer science and data analysis**
 Yandex Data Analysis School (Sep 2015 - Jun 2017)
 * Theory of computation
 * Machine learning
 
-### Master degree in computer engineering
+**Master degree in computer engineering**
 Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014)
 * Software development 
 * Сomputer architecture
@@ -34,9 +44,9 @@ Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 20
 
 ## 🎸 Outside Of Work
 * [FB](https://www.facebook.com/MrBlazerer)
-* Development of telegram-bot for learning guitar CAGED system @MusicPracticeBot
 * [IG](https://www.instagram.com/blazerer_about_everything/) from travels
 * Blog in russian about music gigs at [VK](https://vk.com/blazerer_about_music)
 * Playing guitars
-* Swimming, powerlifting, snowboard
+* Development of telegram-bot for learning guitar CAGED system @MusicPracticeBot
+* Swimming, powerlifting, snowboarding
 * Watching football, escape rooms, boardgames, pub quizzes
