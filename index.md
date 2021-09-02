@@ -9,7 +9,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * Implementation of rules for detection of fraudulent activities
 * Training models for prevention of malicious actors onbording
 * Development of data pipelines
-* **Tools**: Hack, Python, FB ML libraries, Hive, MySQL
+* **Tools**: Hack, Python, FB ML libraries, Hive, MySQL, HG
 
 **Technical lead** @ Yandex.Auto _(Jun 2019 - Nov 2020)_ <br>
 * Service’s dashboards and metrics calculation 
@@ -17,7 +17,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
 * Interviewing, onboarding, mentorship, project management
-* **Tools**: C++14, PlantUML, Yandex server tools
+* **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -31,7 +31,7 @@ print("hello world!")
 * Secure data aggregation pipeline for keyboard application
 * Improving translation quality on few languages via training new types of neural models (request for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
-* **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs
+* **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -46,7 +46,7 @@ print("hello world!")
 * Receiving servers layer (140·103 rps via HTTPS in peak)
 * Various APIs for internal/external usage
 * MR-jobs, utils for monitoring and testing
-* **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper
+* **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
 <details><summary> Examples: </summary>
 <p>
 ```python
