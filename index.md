@@ -69,7 +69,7 @@ print("hello world!")
 ```
 </p>
 </details>
-<br><br>
+<br>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
@@ -85,7 +85,7 @@ print("hello world!")
 * Databases
 * **Tools**: C/C++03, MySQL, PHP, AutoCAD
 
-<br><br>
+<br>
 ## 🏆 Achievements <br>
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
 * [Topcoder](https://www.topcoder.com/members/blazerer/details/?track=DATA_SCIENCE&subTrack=SRM) max rating: **1808** (2014)
@@ -99,14 +99,14 @@ print("hello world!")
 * International summer school of programming in Sevastopol: **participant** (2010 - 2012)
 * Internal Yandex credit scoring contest: **2nd** (2017)
 
-<br><br>
+<br>
 ## 💬 Pesonal Qualities <br>
 * Languages: Russian, English, Ukrainian
 * Communicative
 * Can immerse in any area
 * Thoughtful
 
-<br><br>
+<br>
 ## 🎸 Outside Of Work <br>
 * [FB](https://www.facebook.com/MrBlazerer)
 * [IG](https://www.instagram.com/blazerer_about_everything/) from travels
