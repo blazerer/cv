@@ -15,7 +15,8 @@ _Software engineer based in London, United Kingdom_ <br>
 * Self-developed push-service for devices without google services
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
-* **Technologies used**: <details><summary> Examples: </summary>
+* **Technologies used**:
+<details><summary> Examples: </summary>
 <p>
 
 #### yes, even hidden code blocks!
@@ -26,7 +27,7 @@ print("hello world!")
 
 </p>
 </details>
-
+<br>
 
 **Senior software development engineer** @ Yandex.Translator _(May 2018 - Jun 2019)_ <br>
 * Secure data aggregation pipeline for keyboard application
@@ -44,6 +45,7 @@ print("hello world!")
 
 </p>
 </details>
+<br>
  
 **Software development engineer** @ Yandex.Appmetrica _(Mar 2015 - May 2018)_ <br>
 * Distributed fault-tolerant data pipeline for real-time processing (40·109 rows/day) via proprietary solutions
@@ -62,6 +64,7 @@ print("hello world!")
 
 </p>
 </details>
+<br>
 
 **Software development engineer** @ Moduleworks 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 * Development of libraries for CAD/CAM software
@@ -80,6 +83,7 @@ print("hello world!")
 
 </p>
 </details>
+<br>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
