@@ -1,7 +1,7 @@
 [Email](mailto:roman.peshkurov@gmail.com), [LinkedIn](https://www.linkedin.com/in/romanpeshkurov)
 
 ## 💾 Technical Experience
-**Software development engineer** @ Facebook Business integrity (Dec 2020 - Present)
+**Software development engineer** @ Facebook (Dec 2020 - Present)
 * Implementing rules for detection of fraudulent activities
 * Training models for prevention of malicious actors onbording 
 
