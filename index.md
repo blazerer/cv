@@ -69,6 +69,7 @@ print("hello world!")
 ```
 </p>
 </details>
+<br><br>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
