@@ -6,16 +6,18 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **Software development engineer** @ Facebook _(Dec 2020 - Present)_ <br>
-* Implementing rules for detection of fraudulent activities
-* Training models for prevention of malicious actors onbording 
-* **Tools**:
+* Implementation of rules for detection of fraudulent activities
+* Training models for prevention of malicious actors onbording
+* Development of data pipelines
+* **Tools**: Hack, Python, FB ML libraries, Hive, MySQL
 
 **Technical lead** @ Yandex.Auto _(Jun 2019 - Nov 2020)_ <br>
-* Service’s dashboards and metrics calculation jobs
+* Service’s dashboards and metrics calculation 
 * Self-developed push-service for devices without google services
 * Few server-side applications for navigation app integrations
 * Log-on-demand system for the devices
-* **Tools**:
+* Interviewing, onboarding, mentorship, project management
+* **Tools**: C++14, PlantUML, Yandex server tools
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -29,7 +31,7 @@ print("hello world!")
 * Secure data aggregation pipeline for keyboard application
 * Improving translation quality on few languages via training new types of neural models (request for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
-* **Tools**:
+* **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -44,7 +46,7 @@ print("hello world!")
 * Receiving servers layer (140·103 rps via HTTPS in peak)
 * Various APIs for internal/external usage
 * MR-jobs, utils for monitoring and testing
-* **Tools**:
+* **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper
 <details><summary> Examples: </summary>
 <p>
 ```python
@@ -55,11 +57,11 @@ print("hello world!")
 <br><br>
 
 **Software development engineer** @ Moduleworks 3ax Team _(Mar 2012 - Feb 2015)_ <br>
-* Development of libraries for CAD/CAM software
+Development of libraries for CAD/CAM software
 * Algorithms for toolpath smoothing
 * Multiaxis roughing strategy, 3-ax roughing toolpath generation algorithms
-* Implementation and refactoring of different logic components
-* **Tools used**:
+* Sculpture surface machining and computational geometry problems
+* **Tools**: C++03, Boost, Computational geometry
 <details><summary> Examples: </summary>
 <p>
 ```python
