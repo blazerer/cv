@@ -69,7 +69,6 @@ print("hello world!")
 ```
 </p>
 </details>
-<br>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
@@ -77,7 +76,6 @@ print("hello world!")
 * Machine learning
 * Data processing in external memory
 * **Tools**: C++14, Python, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
-<br><br>
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
 * Software development 
@@ -85,8 +83,7 @@ print("hello world!")
 * Databases
 * **Tools**: C/C++03, MySQL, PHP, AutoCAD
 
-<br>
-## 🏆 Achievements <br>
+## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
 * [Topcoder](https://www.topcoder.com/members/blazerer/details/?track=DATA_SCIENCE&subTrack=SRM) max rating: **1808** (2014)
 * ACM ICPC programming competitions at university level: **1st** (2010 - 2014)
@@ -99,15 +96,13 @@ print("hello world!")
 * International summer school of programming in Sevastopol: **participant** (2010 - 2012)
 * Internal Yandex credit scoring contest: **2nd** (2017)
 
-<br>
-## 💬 Pesonal Qualities <br>
+## 💬 Pesonal Qualities
 * Languages: Russian, English, Ukrainian
 * Communicative
 * Can immerse in any area
 * Thoughtful
 
-<br>
-## 🎸 Outside Of Work <br>
+## 🎸 Outside Of Work
 * [FB](https://www.facebook.com/MrBlazerer)
 * [IG](https://www.instagram.com/blazerer_about_everything/) from travels
 * Blog in russian about music gigs at [VK](https://vk.com/blazerer_about_music)
