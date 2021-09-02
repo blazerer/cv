@@ -10,15 +10,18 @@
 **Software development engineer** @ Yandex.Appmetrica (Mar 2015 - May 2018)
 
 **Software development engineer** @ Moduleworks 3ax Team (Mar 2012 - Feb 2015)
+
 Development of libraries for CAD/CAM software
 
 ## 🎓 Education
 **Master program in computer science and data analysis**
+
 Yandex Data Analysis School (Sep 2015 - Jun 2017)
 * Theory of computation
 * Machine learning
 
 **Master degree in computer engineering**
+
 Sevastopol National University of Nuclear Energy and Industry (Sep 2008 - Jan 2014)
 * Software development 
 * Сomputer architecture
