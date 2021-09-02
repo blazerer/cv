@@ -20,9 +20,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
-```python
-print("hello world!")
-```
+https://youtu.be/28R7JjUjjGY
 </p>
 </details>
 <br><br>
@@ -34,9 +32,7 @@ print("hello world!")
 * **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
-```python
-print("hello world!")
-```
+https://translate.yandex.ru/?lang=en-ru&text=Where%20is%20my%20things%3F
 </p>
 </details>
 <br><br>
@@ -49,9 +45,7 @@ print("hello world!")
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
 <details><summary> Examples: </summary>
 <p>
-```python
-print("hello world!")
-```
+https://appmetrica.yandex.com/about
 </p>
 </details>
 <br><br>
@@ -64,9 +58,7 @@ Development of libraries for CAD/CAM software
 * **Tools**: C++03, Boost, Computational geometry
 <details><summary> Examples: </summary>
 <p>
-```python
-print("hello world!")
-```
+https://youtu.be/nHLNZ-Zp-r4
 </p>
 </details>
 <br><br>
