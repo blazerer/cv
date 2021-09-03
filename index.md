@@ -41,13 +41,14 @@ _Software engineer based in London, United Kingdom_ <br>
 * Developed distributed fault-tolerant real-time data pipeline (40·$10^9$ rows/day) as a cloud of microservices
 * Maintained and optimised backend servers layer (140·$10^3$ RPS of HTTPS in peak)
 * Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
-* Performed analytical investigations on petabytes of data
+* Performed investigations on petabytes of data via MR and SQL
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
 <details><summary>Logs API demonstration</summary>
 <p>
  <br>
 I designed and developed server side of this API to allow customers extract logs of their applications from our storage.
  Here you may see how process of the data download looks like.
+ <br>
  <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
@@ -64,6 +65,7 @@ I designed and developed server side of this API to allow customers extract logs
  <br>
  This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
  My aim was actual implementation of already scoped project and pushing it to production.
+ <br>
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
