@@ -71,9 +71,8 @@ Development of libraries for CAD/CAM software
 * **Tools**: C++14, Python, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
-* Software development 
-* Сomputer architecture
-* Databases
+* Software development and databases
+* Сomputer architecture and microelectronics
 * **Tools**: C/C++03, MySQL, PHP, AutoCAD
 
 ## 🏆 Achievements 
@@ -85,9 +84,9 @@ Development of libraries for CAD/CAM software
 * Vekua Cup onsite contest: **3rd** (2013)
 * KPI-OPEN contest: **high achievements** (2010 - 2011)
 * Osipovsky Cup contest: **high achievements** (2011 - 2012)
-* Open winter programming school in Kharkov: **participant** (2010 - 2013)
-* Sevastopol International summer school of programming: **participant** (2010 - 2012)
-* Yandex summer school of distributional computing: **participant** (2011)
+* Kharkov winter programming school: **participant** (2010 - 2013)
+* Sevastopol summer programming school: **participant** (2010 - 2012)
+* Yandex school of distributional computing: **participant** (2011)
 * Yandex credit scoring contest: **2nd** (2017)
 
 ## 💬 Pesonal Qualities
