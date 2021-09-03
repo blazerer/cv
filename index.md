@@ -21,8 +21,8 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details><summary>Remote-Access-To-Car Demonstration</summary>
 <br>
- We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.<br>
- I was responsible for design, scope and development of server components and managed team of 4 developers, who also worked there.<br>
+ We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.<br><br>
+ I was responsible for design, scope and development of server components and managed team of 4 developers, who also worked there.<br><br>
  Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and presentation from Yandex Conference related to our project:
  <br>
  <br>
@@ -40,7 +40,7 @@ _Software engineer based in London, United Kingdom_ <br>
 <details><summary> Alternatives-For-Translation Demonstration</summary>
 <p>
 <br>
-I worked on optimal extraction of probabilities from translation model to allow us suggest alternative words. Also, I had to alter model's predictor API.<br>
+I worked on optimal extraction of probabilities from translation model to allow us suggest alternative words. Also, I had to alter model's predictor API.<br><br>
 As a result, we have server API for this kind of task, and here you can see example of this tool's usage on en-ru language pair:
  <br>
  <br>
@@ -58,7 +58,7 @@ As a result, we have server API for this kind of task, and here you can see exam
 <details><summary>Logs API Demonstration</summary>
 <p>
  <br>
-I designed and developed server side of this API to allow customers extract logs of their applications from our storage.<br>
+I designed and developed server side of this API to allow customers extract logs of their applications from our storage.<br><br>
  Here you can see how process of the data download looks like:
  <br>
  <br>
@@ -75,8 +75,8 @@ I designed and developed server side of this API to allow customers extract logs
 <details><summary>Multiaxis Roughing Demonstration</summary>
 <p>
  <br>
- This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.<br>
- My aim was actual implementation of already scoped project and pushing it to production.<br>
+ This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.<br><br>
+ My aim was actual implementation of already scoped project and pushing it to production.<br><br>
 Here is the marketing demonstration of this tool:
  <br>
  <br>
