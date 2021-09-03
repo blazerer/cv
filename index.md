@@ -6,20 +6,27 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **Software development engineer** @ Facebook _(Dec 2020 - Present)_ <br>
-* Implementation of rules for detection of fraudulent activities
-* Training models for prevention of malicious actors onbording
-* Development of data pipelines
-* **Tools**: Hack, Python, FB ML libraries, Hive, MySQL, HG
+* Work in the antifraud field so can't share a lot of things
+* Train models in highly ambiguous area
+* Develop data pipelines and implemented business logic 
+* Conduct investigations of anomalies 
+* **Tools**: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
 
-**Technical lead** @ Yandex.Auto _(Jun 2019 - Nov 2020)_ <br>
-* Service’s dashboards and metrics calculation 
-* Self-developed push-service for devices without google services
-* Few server-side applications for navigation app integrations
-* Log-on-demand system for the devices
-* Interviewing, onboarding, mentorship, project management
+**Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
+* Designed and scoped service’s dashboards and metrics calculation processes
+* Designed and scoped proprietary push-service for our devices based on WebSocket
+* Designed and developed Log-On-Demand system for our devices
+* Designed and developed server-side applications for integrations with partners (eg. Remote-Access-To-Car)
+* Participated in interviewing, onboarding, mentorship, project management
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
-<details><summary> Examples: </summary>
-<p>
+<details><summary>Remote-Access-To-Car project Demonstration</summary>
+<br>
+ We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
+ I was responsible for design, scope and development of server components and managed team of 4 developers, who worked there.
+ Here you can see some [news post](https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem) about conducted events and big presentation from Yandex Conference about our project
+ <br>
+ <br>
+ <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/28R7JjUjjGY?start=2560" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
@@ -28,13 +35,13 @@ _Software engineer based in London, United Kingdom_ <br>
 **Senior software development engineer** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
 * Designed and developed end-to-end data aggregation pipeline from application on device to table in the MR-storage
 * Improved translation quality on Turkish language family via training new types of neural models **(waiting for patent)**
-* Implemented translation’s options backend based on neural language model
+* Implemented Alternatives-For-Translation backend based on neural language model API
 * **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
-<details><summary> Translation’s options demonstration</summary>
+<details><summary> Alternatives-For-Translation Demonstration</summary>
 <p>
-  <br>
-I worked on optimal extraction of probabilities from translation model for suggestion of alternative words. Also, I had to alter model's predictor API.
-As a result we have server API for this task, and here you can see example of this tool's usage on en-ru language pair.
+<br>
+I worked on optimal extraction of probabilities from translation model to allow us suggest alternative words. Also, I had to alter model's predictor API.
+As a result, we have server API for this kind of task, and here you can see example of this tool's usage on en-ru language pair.
  <br>
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -48,7 +55,7 @@ As a result we have server API for this task, and here you can see example of th
 * Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
 * Performed investigations on petabytes of data via MR and SQL
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
-<details><summary>Logs API demonstration</summary>
+<details><summary>Logs API Demonstration</summary>
 <p>
  <br>
 I designed and developed server side of this API to allow customers extract logs of their applications from our storage.
@@ -65,7 +72,7 @@ I designed and developed server side of this API to allow customers extract logs
 * Implemented library for toolpath smoothing and based my master's thesis on it
 * Developed and maintainted project of multiaxis roughing
 * **Tools**: C++03, Boost, Computational geometry tools, Svn
-<details><summary>Multiaxis roughing demonstration</summary>
+<details><summary>Multiaxis Roughing Demonstration</summary>
 <p>
  <br>
  This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
@@ -83,7 +90,7 @@ Here is the marketing demonstration of this tool.
 * Theory of computation
 * Machine learning
 * Data processing in external memory
-* **Tools**: C++14, Python, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
+* **Tools**: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
 * Software development and databases
