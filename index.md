@@ -37,20 +37,24 @@ _Software engineer based in London, United Kingdom_ <br>
 </details>
 <br>
  
-**Software development engineer** @ Yandex.Appmetrica _(Mar 2015 - May 2018)_ <br>
-* Distributed fault-tolerant data pipeline for real-time processing (40·109 rows/day) via proprietary solutions
-* Receiving servers layer (140·103 rps via HTTPS in peak)
-* Various APIs for internal/external usage
-* MR-jobs, utils for monitoring and testing
+**Software development engineer** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
+* Developed distributed fault-tolerant real-time data pipeline (40·$10^9$ rows/day) as a cloud of microservices
+* Maintained and optimised backend servers layer (140·$10^3$ RPS of HTTPS in peak)
+* Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
+* Performed analytical investigations on petabytes of data
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
-<details><summary> Examples: </summary>
+<details><summary>Logs API demonstration</summary>
 <p>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <br>
+I designed and developed server side of this API to allow customers extract logs of their applications from our storage.
+ Here you may see how process of the data download looks like.
+ <br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 </details>
 <br>
 
-**Software development engineer** @ [Moduleworks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
+**Software development engineer** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 * Solving sculpture surface machining and computational geometry problems
 * Implemented library for toolpath smoothing and based my master's thesis on it
 * Developed and maintainted project of multiaxis roughing
