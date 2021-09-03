@@ -23,7 +23,7 @@ _Software engineer based in London, United Kingdom_ <br>
 <br>
  We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
  I was responsible for design, scope and development of server components and managed team of 4 developers, who worked there.
- Here you can see some [news post](https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem) about conducted events and big presentation from Yandex Conference about our project
+ Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and big presentation from Yandex Conference about our project
  <br>
  <br>
  <p>
