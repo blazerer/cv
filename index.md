@@ -5,7 +5,7 @@ _Software engineer based in London, United Kingdom_ <br>
 [Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/romanpeshkurov) / [Github](https://github.com/blazerer)
 
 ## 💾 Technical Experience
-**Software development engineer** @ Facebook _(Dec 2020 - Present)_ <br>
+**SDE** @ Facebook _(Dec 2020 - Present)_ <br>
 * Work in the antifraud field so can't share a lot of things
 * Train models in highly ambiguous area
 * Develop data pipelines and implemented business logic 
@@ -35,7 +35,7 @@ _Software engineer based in London, United Kingdom_ <br>
 </details>
 <br>
 
-**Senior software development engineer** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
+**Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
 * Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage
 * Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**
 * Implemented Alternatives-For-Translation backend based on neural language model API
@@ -55,7 +55,7 @@ As a result, we have server API for this kind of task, and here you can see exam
 </details>
 <br>
  
-**Software development engineer** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
+**SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
 * Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a cloud of microservices
 * Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)
 * Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
@@ -76,7 +76,7 @@ I designed and developed server side of this API to allow customers extract logs
 </details>
 <br>
 
-**Software development engineer** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
+**SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 * Was solving sculpture surface machining and computational geometry problems
 * Implemented library for toolpath smoothing and based my master's thesis on it
 * Developed and maintainted project of Multiaxis Roughing
