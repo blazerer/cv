@@ -38,8 +38,8 @@ _Software engineer based in London, United Kingdom_ <br>
 <br>
  
 **Software development engineer** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
-* Developed distributed fault-tolerant real-time data pipeline (40·$10^9$ rows/day) as a cloud of microservices
-* Maintained and optimised backend servers layer (140·$10^3$ RPS of HTTPS in peak)
+* Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a cloud of microservices
+* Maintained and optimised backend servers layer (140·10^3 RPS of HTTPS in peak)
 * Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
 * Performed investigations on petabytes of data via MR and SQL
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
