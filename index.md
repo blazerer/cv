@@ -54,11 +54,11 @@ _Software engineer based in London, United Kingdom_ <br>
 * Solving sculpture surface machining and computational geometry problems
 * Implemented library for toolpath smoothing and based my master's thesis on it
 * Developed and maintainted project of multiaxis roughing
-* **Tools**: C++03, Boost, Computational geometry
+* **Tools**: C++03, Boost, Computational geometry tools, Svn
 <details><summary>Multiaxis roughing demonstration</summary>
 <p>
  <br>
- Multiaxis roughing algorithm was implemented as combination of approaches between 5ax and 3ax project areas.
+ This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
  My aim was actual implementation of already scoped project and pushing it to production.
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
