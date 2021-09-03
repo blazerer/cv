@@ -14,16 +14,16 @@ _Software engineer based in London, United Kingdom_ <br>
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
 * Designed and scoped service’s dashboards and metrics calculation processes
-* Designed and scoped proprietary push-service for our devices based on WebSocket
-* Designed and developed Log-On-Demand system for our devices
-* Designed and developed server-side applications for integrations with partners (eg. Remote-Access-To-Car)
+* Designed and scoped proprietary push-service based on WebSocket for our devices
+* Developed Logs-On-Demand system for our devices
+* Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)
 * Participated in interviewing, onboarding, mentorship, project management
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
-<details><summary>Remote-Access-To-Car project Demonstration</summary>
+<details><summary>Remote-Access-To-Car Demonstration</summary>
 <br>
  We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
- I was responsible for design, scope and development of server components and managed team of 4 developers, who worked there.
- Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and big presentation from Yandex Conference about our project
+ I was responsible for design, scope and development of server components and managed team of 4 developers, who also worked there.
+ Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and presentation from Yandex Conference related to our project
  <br>
  <br>
  <p>
@@ -33,8 +33,8 @@ _Software engineer based in London, United Kingdom_ <br>
 <br>
 
 **Senior software development engineer** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
-* Designed and developed end-to-end data aggregation pipeline from application on device to table in the MR-storage
-* Improved translation quality on Turkish language family via training new types of neural models **(waiting for patent)**
+* Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage
+* Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**
 * Implemented Alternatives-For-Translation backend based on neural language model API
 * **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
 <details><summary> Alternatives-For-Translation Demonstration</summary>
@@ -51,7 +51,7 @@ As a result, we have server API for this kind of task, and here you can see exam
  
 **Software development engineer** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
 * Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a cloud of microservices
-* Maintained and optimised backend servers layer (140·10^3 RPS of HTTPS in peak)
+* Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)
 * Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
 * Performed investigations on petabytes of data via MR and SQL
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
@@ -68,9 +68,9 @@ I designed and developed server side of this API to allow customers extract logs
 <br>
 
 **Software development engineer** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
-* Solving sculpture surface machining and computational geometry problems
+* Was solving sculpture surface machining and computational geometry problems
 * Implemented library for toolpath smoothing and based my master's thesis on it
-* Developed and maintainted project of multiaxis roughing
+* Developed and maintainted project of Multiaxis Roughing
 * **Tools**: C++03, Boost, Computational geometry tools, Svn
 <details><summary>Multiaxis Roughing Demonstration</summary>
 <p>
