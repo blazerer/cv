@@ -22,9 +22,11 @@ _Software engineer based in London, United Kingdom_ <br>
 <details align="justify">
  <summary>Remote-Access-To-Car Demonstration</summary>
 <br>
+ <i>
  We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
  I was responsible for design, scope and development of server components and managed team of 4 developers, who also worked there.<br><br>
  Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and presentation from Yandex Conference related to our project:
+ </i>
  <br>
  <br>
  <p>
