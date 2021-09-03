@@ -20,8 +20,10 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
-https://www.youtube.com/watch?v=28R7JjUjjGY&t=2560s
-</p>
+ <figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=28R7JjUjjGY&t=2560s" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+ </p>
 </details>
 <br>
 
