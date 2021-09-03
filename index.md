@@ -79,27 +79,28 @@ Development of libraries for CAD/CAM software
 ## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
 * [Topcoder](https://www.topcoder.com/members/blazerer/details/?track=DATA_SCIENCE&subTrack=SRM) max rating: **1808** (2014)
-* ACM ICPC programming competitions at university level: **1st** (2010 - 2014)
-* ACM ICPC all-ukrainian programming contests at southern regions: **2nd** (2011), **3rd** (2012 - 2014)
-* ACM ICPC world semifinal at SEERC: **participant** (2011-2014)
-* Vekua Cup onsite: **3rd** (2013)
-* International students olympiad of programming KPI-OPEN: **high achievements** (2010 - 2011)
-* International students olympiad of programming Osipovsky Cup: **high achievements** (2011 - 2012)
+* ACM ICPC university level contest: **1st** (2010 - 2014)
+* ACM ICPC ukrainian-south contest: **2nd** (2011), **3rd** (2012 - 2014)
+* ACM ICPC SEERC world semifinal: **participant** (2011-2014)
+* Vekua Cup onsite contest: **3rd** (2013)
+* KPI-OPEN contest: **high achievements** (2010 - 2011)
+* Osipovsky Cup contest: **high achievements** (2011 - 2012)
 * Open winter programming school in Kharkov: **participant** (2010 - 2013)
-* International summer school of programming in Sevastopol: **participant** (2010 - 2012)
-* Internal Yandex credit scoring contest: **2nd** (2017)
+* Sevastopol International summer school of programming: **participant** (2010 - 2012)
+* Yandex summer school of distributional computing: **participant** (2011)
+* Yandex credit scoring contest: **2nd** (2017)
 
 ## 💬 Pesonal Qualities
 * Languages: Russian, English, Ukrainian
 * Communicative
-* Can immerse in any area
+* Able to immerse in any area
 * Thoughtful
 
 ## 🎸 Outside Of Work
 * [FB](https://www.facebook.com/MrBlazerer)
-* [IG](https://www.instagram.com/blazerer_about_everything/) from travels
-* Blog in russian about music gigs at [VK](https://vk.com/blazerer_about_music)
-* Playing guitars
+* [Blog](https://vk.com/blazerer_about_music) about music gigs
+* [IG](https://www.instagram.com/blazerer_about_everything/) about everything
+* Playing any kind of guitar
 * Development of telegram-bot for learning guitar CAGED system @MusicPracticeBot
 * Swimming, snowboarding
 * Watching football, escape rooms, boardgames, pub quizzes
