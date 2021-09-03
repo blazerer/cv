@@ -44,8 +44,10 @@ _Software engineer based in London, United Kingdom_ <br>
  <summary> Alternatives-For-Translation Demonstration</summary>
 <p>
 <br>
+ <i>
 I worked on optimal extraction of probabilities from translation model to allow us suggest alternative words. Also, I had to alter model's predictor API.<br><br>
 As a result, we have server API for this kind of task, and here you can see example of this tool's usage on en-ru language pair:
+</i>
  <br>
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -63,8 +65,10 @@ As a result, we have server API for this kind of task, and here you can see exam
  <summary>Logs API Demonstration</summary>
 <p>
  <br>
+  <i>
 I designed and developed server side of this API to allow customers extract logs of their applications from our storage.<br><br>
  Here you can see how process of the data download looks like:
+ </i>
  <br>
  <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -81,9 +85,11 @@ I designed and developed server side of this API to allow customers extract logs
  <summary>Multiaxis Roughing Demonstration</summary>
 <p>
  <br>
+  <i>
  This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
  My aim was actual implementation of already scoped project and pushing it to production.<br><br>
 Here is the marketing demonstration of this tool:
+  </i>
  <br>
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
