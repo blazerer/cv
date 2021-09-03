@@ -20,9 +20,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
- <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=28R7JjUjjGY&t=2560s" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28R7JjUjjGY?start=2566" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
 <br>
