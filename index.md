@@ -20,7 +20,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28R7JjUjjGY?start=2566" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28R7JjUjjGY?start=2560" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
 <br>
@@ -32,7 +32,7 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
-https://www.youtube.com/watch?v=qzsiknOQsZI
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 </details>
 <br>
@@ -45,7 +45,7 @@ https://www.youtube.com/watch?v=qzsiknOQsZI
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
 <details><summary> Examples: </summary>
 <p>
-https://youtu.be/S7wl_8sTrAY
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 </details>
 <br>
@@ -58,7 +58,7 @@ Development of libraries for CAD/CAM software
 * **Tools**: C++03, Boost, Computational geometry
 <details><summary> Examples: </summary>
 <p>
-https://youtu.be/nHLNZ-Zp-r4
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 </details>
 <br>
