@@ -25,15 +25,20 @@ _Software engineer based in London, United Kingdom_ <br>
 </details>
 <br>
 
-**Senior software development engineer** @ Yandex.Translator _(May 2018 - Jun 2019)_ <br>
-* Secure data aggregation pipeline for keyboard application
-* Improving translation quality on few languages via training new types of neural models (waiting for patent)
-* Implementation of translation’s suggest backend based on neural language model’s probabilities
-* **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG, Yandex Arc
-<details><summary> Examples: </summary>
+**Senior software development engineer** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
+* Designed and developed end-to-end data aggregation pipeline from application on device to table in the MR-storage
+* Improved translation quality on Turkish language family via training new types of neural models **(waiting for patent)**
+* Implemented translation’s options backend based on neural language model
+* **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
+<details><summary> Translation’s options demonstration</summary>
 <p>
+  <br>
+I worked on optimal extraction of probabilities from translation model for suggestion of alternative words. Also, I had to alter model's predictor API.
+As a result we have server API for this task, and here you can see example of this tool's usage on en-ru language pair.
+ <br>
+ <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+ </p>
 </details>
 <br>
  
@@ -47,7 +52,7 @@ _Software engineer based in London, United Kingdom_ <br>
 <p>
  <br>
 I designed and developed server side of this API to allow customers extract logs of their applications from our storage.
- Here you may see how process of the data download looks like.
+ Here you can see how process of the data download looks like.
  <br>
  <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -65,6 +70,7 @@ I designed and developed server side of this API to allow customers extract logs
  <br>
  This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
  My aim was actual implementation of already scoped project and pushing it to production.
+Here is the marketing demonstration of this tool.
  <br>
  <br>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
