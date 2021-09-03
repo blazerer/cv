@@ -20,22 +20,22 @@ _Software engineer based in London, United Kingdom_ <br>
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
-https://youtu.be/28R7JjUjjGY
+https://www.youtube.com/watch?v=28R7JjUjjGY&t=2560s
 </p>
 </details>
-<br><br>
+<br>
 
 **Senior software development engineer** @ Yandex.Translator _(May 2018 - Jun 2019)_ <br>
 * Secure data aggregation pipeline for keyboard application
-* Improving translation quality on few languages via training new types of neural models (request for patent)
+* Improving translation quality on few languages via training new types of neural models (waiting for patent)
 * Implementation of translation’s suggest backend based on neural language model’s probabilities
 * **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG, Yandex Arc
 <details><summary> Examples: </summary>
 <p>
-https://translate.yandex.ru/?lang=en-ru&text=Where%20is%20my%20things%3F
+https://www.youtube.com/watch?v=qzsiknOQsZI
 </p>
 </details>
-<br><br>
+<br>
  
 **Software development engineer** @ Yandex.Appmetrica _(Mar 2015 - May 2018)_ <br>
 * Distributed fault-tolerant data pipeline for real-time processing (40·109 rows/day) via proprietary solutions
@@ -45,10 +45,10 @@ https://translate.yandex.ru/?lang=en-ru&text=Where%20is%20my%20things%3F
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
 <details><summary> Examples: </summary>
 <p>
-https://appmetrica.yandex.com/about
+https://youtu.be/S7wl_8sTrAY
 </p>
 </details>
-<br><br>
+<br>
 
 **Software development engineer** @ Moduleworks 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 Development of libraries for CAD/CAM software
@@ -61,7 +61,7 @@ Development of libraries for CAD/CAM software
 https://youtu.be/nHLNZ-Zp-r4
 </p>
 </details>
-<br><br>
+<br>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
