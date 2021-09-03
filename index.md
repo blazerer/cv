@@ -19,9 +19,10 @@ _Software engineer based in London, United Kingdom_ <br>
 * Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)
 * Participated in interviewing, onboarding, mentorship, project management
 * **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
-<details><summary>Remote-Access-To-Car Demonstration</summary>
+<details align="justify">
+ <summary>Remote-Access-To-Car Demonstration</summary>
 <br>
- We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.<br><br>
+ We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
  I was responsible for design, scope and development of server components and managed team of 4 developers, who also worked there.<br><br>
  Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and presentation from Yandex Conference related to our project:
  <br>
@@ -37,7 +38,8 @@ _Software engineer based in London, United Kingdom_ <br>
 * Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**
 * Implemented Alternatives-For-Translation backend based on neural language model API
 * **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
-<details><summary> Alternatives-For-Translation Demonstration</summary>
+<details align="justify">
+ <summary> Alternatives-For-Translation Demonstration</summary>
 <p>
 <br>
 I worked on optimal extraction of probabilities from translation model to allow us suggest alternative words. Also, I had to alter model's predictor API.<br><br>
@@ -55,7 +57,8 @@ As a result, we have server API for this kind of task, and here you can see exam
 * Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
 * Performed investigations on petabytes of data via MR and SQL
 * **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
-<details><summary>Logs API Demonstration</summary>
+<details align="justify">
+ <summary>Logs API Demonstration</summary>
 <p>
  <br>
 I designed and developed server side of this API to allow customers extract logs of their applications from our storage.<br><br>
@@ -72,10 +75,11 @@ I designed and developed server side of this API to allow customers extract logs
 * Implemented library for toolpath smoothing and based my master's thesis on it
 * Developed and maintainted project of Multiaxis Roughing
 * **Tools**: C++03, Boost, Computational geometry tools, Svn
-<details><summary>Multiaxis Roughing Demonstration</summary>
+<details align="justify">
+ <summary>Multiaxis Roughing Demonstration</summary>
 <p>
  <br>
- This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.<br><br>
+ This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
  My aim was actual implementation of already scoped project and pushing it to production.<br><br>
 Here is the marketing demonstration of this tool:
  <br>
