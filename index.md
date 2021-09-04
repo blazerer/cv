@@ -155,4 +155,4 @@ Here is the marketing demonstration of this tool:
 * Playing any kind of guitar
 * Development of tg-bot for learning CAGED on guitar @MusicPracticeBot
 * Swimming, snowboarding
-* Watching football, escape rooms, boardgames, pub quizzes
+* Escape rooms, boardgames, pub quizzes, watching football
