@@ -6,9 +6,9 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **SDE** @ Facebook _(Dec 2020 - Present)_ <br>
-* **Tools**: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
+**Tools**: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
 <details align="justify">
- <summary>Details</summary>
+<summary>Details</summary>
 <br>
  <ul>
   <li>Work in the antifraud field so can't share a lot of things</li>
@@ -21,16 +21,17 @@ _Software engineer based in London, United Kingdom_ <br>
 
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
+**Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
+<details align="justify">
+<summary>Details</summary>
+<br>
 * Designed and scoped service’s dashboards and metrics calculation processes
 * Designed and scoped proprietary push-service based on WebSocket for our devices
 * Developed Logs-On-Demand system for our devices
 * Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)
 * Participated in interviewing, onboarding, mentorship, project management
-* **Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
-<details align="justify">
- <summary>Remote-Access-To-Car Demonstration</summary>
-<br>
  <i>
+ Remote-Access-To-Car Demonstration<br>
  We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
  I was responsible for design, scope and development of server components and managed team of 4 developers, who also worked there.<br><br>
  Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and presentation from Yandex Conference related to our project:
