@@ -6,11 +6,17 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **SDE** @ Facebook _(Dec 2020 - Present)_ <br>
+* **Tools**: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
+<details align="justify">
+ <summary>Details</summary>
+<br>
 * Work in the antifraud field so can't share a lot of things
 * Train models in highly ambiguous area
 * Develop data pipelines and implemented business logic 
 * Conduct investigations of anomalies 
-* **Tools**: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
+</details>
+<br>
+
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
 * Designed and scoped service’s dashboards and metrics calculation processes
