@@ -6,28 +6,30 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **SDE** @ Facebook _(Dec 2020 - Present)_ <br>
-Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools
+Antifraud investigations, model training and development of server components 
 <details align="justify">
 <summary>Details</summary>
  <ul>
   <li>Work in the antifraud field so can't share a lot of things</li>
   <li>Train models in highly ambiguous area</li>
-  <li>Develop data pipelines and implemented business logic </li>
+  <li>Develop data pipelines and implemented business logic on them</li>
   <li>Conduct investigations of anomalies </li>
+  <li>Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools </li>
 </ul>
 </details>
 <br>
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
-Tools: C++14, PlantUML, Yandex server tools, Yandex Arc
+Management of team responsible for the server-side of mobile application  
 <details align="justify">
 <summary>Details</summary>
  <ul>
-  <li>Designed and scoped service’s dashboards and metrics calculation processes</li>
-  <li>Designed and scoped proprietary push-service based on WebSocket for our devices</li>
+  <li>Designed service’s dashboards and metrics calculation processes</li>
+  <li>Designed and managed development of proprietary push-service based on WebSocket for our devices</li>
   <li>Developed Logs-On-Demand system for our devices</li>
   <li>Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)</li>
   <li>Participated in interviewing, onboarding, mentorship, project management</li>
+  <li>Tools: C++14, PlantUML, Yandex-tools</li>
 </ul>
  <i>
  Remote-Access-To-Car Demonstration<br>
@@ -44,7 +46,7 @@ Tools: C++14, PlantUML, Yandex server tools, Yandex Arc
 <br>
 
 **Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
-Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
+Training translation models and development of data pipelines
 <details align="justify">
  <summary>Details</summary>
 <br>
@@ -52,6 +54,7 @@ Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, T
  <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
  <li>Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**</li>
  <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
+ <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
 </ul>
 <i>
 Alternatives-For-Translation Demonstration<br>
@@ -67,7 +70,7 @@ As a result, we have server API for this kind of task, and here you can see exam
 <br>
  
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
-Tools: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
+Server-side development of realtime analytical service for mobile applications
 <details align="justify">
  <summary>Details</summary>
  <br>
@@ -76,6 +79,7 @@ Tools: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (develo
 <li>Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)</li>
 <li>Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
 <li>Performed investigations on petabytes of data via MR and SQL</li>
+<li>Tools: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
 </ul>
 <i>
 Logs API Demonstration<br>
@@ -92,7 +96,7 @@ I designed and developed server side of this API to allow customers extract logs
 <br>
 
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
-Tools: C++03, Boost, Computational geometry tools, Svn
+Development of libraries for CAD/CAM software
 <details align="justify">
  <summary>Details</summary>
  <br>
@@ -100,6 +104,7 @@ Tools: C++03, Boost, Computational geometry tools, Svn
 <li>Was solving sculpture surface machining and computational geometry problems</li>
 <li>Implemented library for toolpath smoothing and based my master's thesis on it</li>
 <li>Developed and maintainted project of Multiaxis Roughing</li>
+<li>Tools: C++03, Boost, Computational geometry tools, Svn</li>
 </ul>
  <i>
 Multiaxis Roughing Demonstration<br>
@@ -118,15 +123,15 @@ Here is the marketing demonstration of this tool:
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
-Tools: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
 * Theory of computation
 * Machine learning
 * Data processing in external memory
+* Tools: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
-Tools: C/C++03, MySQL, PHP, AutoCAD
 * Software development and databases
 * Сomputer architecture and microelectronics
+* Tools: C/C++03, MySQL, PHP, AutoCAD
 
 ## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
