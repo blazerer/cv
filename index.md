@@ -10,10 +10,12 @@ _Software engineer based in London, United Kingdom_ <br>
 <details align="justify">
  <summary>Details</summary>
 <br>
-* Work in the antifraud field so can't share a lot of things
-* Train models in highly ambiguous area
-* Develop data pipelines and implemented business logic 
-* Conduct investigations of anomalies 
+ <ul>
+  <li>Work in the antifraud field so can't share a lot of things</li>
+  <li>Train models in highly ambiguous area</li>
+  <li>Develop data pipelines and implemented business logic </li>
+  <li>Conduct investigations of anomalies </li>
+</ul>
 </details>
 <br>
 
