@@ -6,7 +6,7 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **SDE** @ Facebook _(Dec 2020 - Present)_ <br>
-Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
+Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools
 <details align="justify">
 <summary>Details</summary>
  <ul>
@@ -17,7 +17,6 @@ Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
 </ul>
 </details>
 <br>
-
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
 Tools: C++14, PlantUML, Yandex server tools, Yandex Arc
@@ -46,19 +45,22 @@ Tools: C++14, PlantUML, Yandex server tools, Yandex Arc
 
 **Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
 Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
-* Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage
-* Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**
-* Implemented Alternatives-For-Translation backend based on neural language model API
 <details align="justify">
- <summary> Alternatives-For-Translation Demonstration</summary>
-<p>
+ <summary>Details</summary>
 <br>
- <i>
+<ul>
+ <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
+ <li>Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**</li>
+ <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
+</ul>
+<i>
+Alternatives-For-Translation Demonstration<br>
 I worked on optimal extraction of probabilities from translation model to allow us suggest alternative words. Also, I had to alter model's predictor API.<br><br>
 As a result, we have server API for this kind of task, and here you can see example of this tool's usage on en-ru language pair:
 </i>
  <br>
  <br>
+<p>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
@@ -66,20 +68,24 @@ As a result, we have server API for this kind of task, and here you can see exam
  
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
 Tools: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
-* Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a cloud of microservices
-* Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)
-* Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
-* Performed investigations on petabytes of data via MR and SQL
 <details align="justify">
- <summary>Logs API Demonstration</summary>
-<p>
+ <summary>Details</summary>
  <br>
-  <i>
+<ul>
+<li>Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a cloud of microservices</li>
+<li>Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)</li>
+<li>Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
+<li>Performed investigations on petabytes of data via MR and SQL</li>
+</ul>
+<i>
+Logs API Demonstration<br>
 I designed and developed server side of this API to allow customers extract logs of their applications from our storage.<br><br>
  Here you can see how process of the data download looks like:
  </i>
  <br>
  <br>
+
+<p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 </details>
@@ -87,20 +93,24 @@ I designed and developed server side of this API to allow customers extract logs
 
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 Tools: C++03, Boost, Computational geometry tools, Svn
-* Was solving sculpture surface machining and computational geometry problems
-* Implemented library for toolpath smoothing and based my master's thesis on it
-* Developed and maintainted project of Multiaxis Roughing
 <details align="justify">
- <summary>Multiaxis Roughing Demonstration</summary>
-<p>
+ <summary>Details</summary>
  <br>
-  <i>
- This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
- My aim was actual implementation of already scoped project and pushing it to production.<br><br>
+<ul>
+<li>Was solving sculpture surface machining and computational geometry problems</li>
+<li>Implemented library for toolpath smoothing and based my master's thesis on it</li>
+<li>Developed and maintainted project of Multiaxis Roughing</li>
+</ul>
+ <i>
+Multiaxis Roughing Demonstration<br>
+This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
+My aim was actual implementation of already scoped project and pushing it to production.<br><br>
 Here is the marketing demonstration of this tool:
   </i>
  <br>
  <br>
+
+<p>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 </details>
@@ -108,15 +118,15 @@ Here is the marketing demonstration of this tool:
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
+Tools: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
 * Theory of computation
 * Machine learning
 * Data processing in external memory
-* **Tools**: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
+Tools: C/C++03, MySQL, PHP, AutoCAD
 * Software development and databases
 * Сomputer architecture and microelectronics
-* **Tools**: C/C++03, MySQL, PHP, AutoCAD
 
 ## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
