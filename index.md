@@ -6,10 +6,9 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **SDE** @ Facebook _(Dec 2020 - Present)_ <br>
-**Tools**: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
+Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, plenty of FB-tools
 <details align="justify">
 <summary>Details</summary>
-<br>
  <ul>
   <li>Work in the antifraud field so can't share a lot of things</li>
   <li>Train models in highly ambiguous area</li>
@@ -21,15 +20,16 @@ _Software engineer based in London, United Kingdom_ <br>
 
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
-**Tools**: C++14, PlantUML, Yandex server tools, Yandex Arc
+Tools: C++14, PlantUML, Yandex server tools, Yandex Arc
 <details align="justify">
 <summary>Details</summary>
-<br>
-* Designed and scoped service’s dashboards and metrics calculation processes
-* Designed and scoped proprietary push-service based on WebSocket for our devices
-* Developed Logs-On-Demand system for our devices
-* Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)
-* Participated in interviewing, onboarding, mentorship, project management
+ <ul>
+  <li>Designed and scoped service’s dashboards and metrics calculation processes</li>
+  <li>Designed and scoped proprietary push-service based on WebSocket for our devices</li>
+  <li>Developed Logs-On-Demand system for our devices</li>
+  <li>Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)</li>
+  <li>Participated in interviewing, onboarding, mentorship, project management</li>
+</ul>
  <i>
  Remote-Access-To-Car Demonstration<br>
  We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
@@ -45,10 +45,10 @@ _Software engineer based in London, United Kingdom_ <br>
 <br>
 
 **Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
+Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
 * Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage
 * Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**
 * Implemented Alternatives-For-Translation backend based on neural language model API
-* **Tools**: C++14, Python, NLTK, TF, Yandex MapReduce, Natural language processing, Transformer RNNs, HG
 <details align="justify">
  <summary> Alternatives-For-Translation Demonstration</summary>
 <p>
@@ -65,11 +65,11 @@ As a result, we have server API for this kind of task, and here you can see exam
 <br>
  
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
+Tools: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
 * Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a cloud of microservices
 * Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)
 * Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions
 * Performed investigations on petabytes of data via MR and SQL
-* **Tools**: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git
 <details align="justify">
  <summary>Logs API Demonstration</summary>
 <p>
@@ -86,10 +86,10 @@ I designed and developed server side of this API to allow customers extract logs
 <br>
 
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
+Tools: C++03, Boost, Computational geometry tools, Svn
 * Was solving sculpture surface machining and computational geometry problems
 * Implemented library for toolpath smoothing and based my master's thesis on it
 * Developed and maintainted project of Multiaxis Roughing
-* **Tools**: C++03, Boost, Computational geometry tools, Svn
 <details align="justify">
  <summary>Multiaxis Roughing Demonstration</summary>
 <p>
