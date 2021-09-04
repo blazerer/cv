@@ -29,7 +29,7 @@ Management of team responsible for the server-side of mobile application
   <li>Developed Logs-On-Demand system for our devices</li>
   <li>Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)</li>
   <li>Participated in interviewing, onboarding, mentorship, project management</li>
-  <li>Tools: C++14, PlantUML, Yandex-tools</li>
+  <li>Tools: C++14, PostgreSQL, PlantUML, Yandex-tools</li>
 </ul>
  <i>
  Remote-Access-To-Car Demonstration<br>
