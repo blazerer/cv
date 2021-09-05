@@ -24,10 +24,10 @@ Management of team responsible for the server-side of mobile application
 <details align="justify">
  <summary>Details</summary>
  <ul>
+  <li>Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)</li>
   <li>Designed service’s dashboards and metrics calculation processes</li>
   <li>Designed and managed development of proprietary push-service based on WebSocket for our devices</li>
   <li>Developed Logs-On-Demand system for our devices</li>
-  <li>Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)</li>
   <li>Participated in interviewing, onboarding, mentorship, project management</li>
   <li>Tools: C++14, PostgreSQL, PlantUML, Yandex-tools</li>
 </ul>
@@ -51,7 +51,7 @@ Training translation models and development of data pipelines
  <summary>Details</summary>
  <ul>
   <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
-  <li>Improved translation quality on Turkish language family via training new types of neural models - waiting for patent</li>
+  <li>Improved translation quality on Turkish language family via training new types of neural models, <b>waiting for patent<b></li>
   <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
   <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
  </ul>
