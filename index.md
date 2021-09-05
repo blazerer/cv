@@ -51,7 +51,7 @@ Training translation models and development of data pipelines
  <summary>Details</summary>
  <ul>
   <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
-  <li>Improved translation quality on Turkish language family via training new types of neural models. **Waiting for patent**</li>
+  <li>Improved translation quality on Turkish language family via training new types of neural models - waiting for patent</li>
   <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
   <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
  </ul>
@@ -77,7 +77,7 @@ Server-side development of realtime analytical service for mobile applications
   <li>Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)</li>
   <li>Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
   <li>Performed investigations on petabytes of data via MR and SQL</li>
-  <li>Tools: C++14, Boost, Poco, MySQL, [ClickHouse](https://clickhouse.tech/) (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
+  <li>Tools: C++14, Boost, Poco, MySQL, <a href="https://clickhouse.tech/">ClickHouse</a> (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
  </ul>
  <i>
  Logs API Demonstration<br>
