@@ -33,8 +33,8 @@ Management of team responsible for the server-side of mobile application
 </ul>
  <i>
  Remote-Access-To-Car Demonstration<br>
- We integrated our navigation app with telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
- I was responsible for design, scope and development of server components and managed team of 4 developers, who also worked there.<br><br>
+ We integrated our navigation app with a telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
+ I was responsible for design, scope and development of server components and managed a team of 4 developers, who also worked there.<br><br>
  Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and presentation from Yandex Conference related to our project:
 </i>
  <br>
@@ -57,7 +57,7 @@ Training translation models and development of data pipelines
  </ul>
  <i>
  Alternatives-For-Translation Demonstration<br>
- I worked on optimal extraction of probabilities from translation model to allow us suggest alternative words. Also, I had to alter model's predictor API.<br><br>
+ I worked on optimal extraction of probabilities from translation model to allow us to suggest alternative words. Also, I had to alter the model's predictor API.<br><br>
  As a result, we have server API for this kind of task, and here you can see example of this tool's usage on en-ru language pair:
  </i>
  <br>
@@ -69,7 +69,7 @@ Training translation models and development of data pipelines
 <br>
  
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
-Server-side development of realtime analytical service for mobile applications
+Server-side development of real time analytical service for mobile applications
 <details align="justify">
  <summary>Details</summary>
  <ul>
@@ -81,7 +81,7 @@ Server-side development of realtime analytical service for mobile applications
  </ul>
  <i>
  Logs API Demonstration<br>
- I designed and developed server side of this API to allow customers extract logs of their applications from our storage.<br><br>
+ I designed and developed the server side of this API to allow customers to extract logs of their applications from our storage.<br><br>
  Here you can see how process of the data download looks like:
  </i>
  <br>
@@ -99,13 +99,13 @@ Development of libraries for CAD/CAM software
  <ul>
   <li>Was solving sculpture surface machining and computational geometry problems</li>
   <li>Implemented library for toolpath smoothing and based my master's thesis on it</li>
-  <li>Developed and maintainted project of Multiaxis Roughing</li>
+  <li>Developed and maintained project of Multiaxis Roughing</li>
   <li>Tools: C++03, Boost, Computational geometry tools, Svn</li>
  </ul>
  <i>
 Multiaxis Roughing Demonstration<br>
 This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
-My aim was actual implementation of already scoped project and pushing it to production.<br><br>
+My aim was actual implementation of an already scoped project and pushing it to production.<br><br>
 Here is the marketing demonstration of this tool:
  </i>
  <br>
@@ -142,7 +142,7 @@ Here is the marketing demonstration of this tool:
 * Yandex school of distributional computing: **participant** (2011)
 * Yandex credit scoring contest: **2nd** (2017)
 
-## 💬 Pesonal Qualities
+## 💬 Personal Qualities
 * Languages: Russian, English, Ukrainian
 * Able to immerse in any area
 * Communicative
@@ -155,4 +155,4 @@ Here is the marketing demonstration of this tool:
 * Playing any kind of guitar
 * Development of tg-bot for learning CAGED on guitar @MusicPracticeBot
 * Swimming, snowboarding
-* Escape rooms, boardgames, pub quizzes, watching football
+* Escape rooms, board games, pub quizzes, watching football
