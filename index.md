@@ -2,7 +2,7 @@
 
 _Software engineer based in London, United Kingdom_ <br>
 
-[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/romanpeshkurov) / [Github](https://github.com/blazerer)
+[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer)
 
 ## 💾 Technical Experience
 **SDE** @ Facebook _(Dec 2020 - Present)_ <br>
