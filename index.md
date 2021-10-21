@@ -153,6 +153,6 @@ Here is the marketing demonstration of this tool:
 * [Blog](https://vk.com/blazerer_about_music) about music gigs
 * [IG](https://www.instagram.com/blazerer_about_everything/) about everything
 * Playing any kind of guitar
-* Development of tg-bot for learning CAGED on guitar @MusicPracticeBot
+* Development of [tg-bot](https://t.me/MusicPracticeBot) for learning CAGED on guitar
 * Swimming, snowboarding
 * Escape rooms, board games, pub quizzes, watching football
