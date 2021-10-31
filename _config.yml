@@ -5,3 +5,5 @@ markdown: CommonMarkGhPages
 logo: /tags.png
 # Google Analytics
 google_analytics: G-FNJPD7D0ES
+plugins:
+  - jekyll-seo-tag
