@@ -85,7 +85,7 @@ Server-side development of real time analytical service for mobile applications
  Here you can see how process of the data download looks like:
  </i>
  <br>
- <br>
+ <br> 
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
