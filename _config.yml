@@ -3,11 +3,4 @@ title: 🐞🥌💨
 description: Cloud of competences 
 markdown: CommonMarkGhPages
 logo: /tags.png
-
-social_links:
-  github:  blazerer
-# Google Analytics
-google_analytics: G-FNJPD7D0ES
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+google_analytics: 
