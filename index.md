@@ -10,32 +10,32 @@ Antifraud investigations, model training and development of server components
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Work in the antifraud field so can't share a lot of things</li>
+  <li>Work in the antifraud field so can't share many details</li>
   <li>Train models in highly ambiguous area</li>
-  <li>Develop data pipelines and implemented business logic on them</li>
-  <li>Conduct investigations of anomalies </li>
-  <li>Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools </li>
+  <li>Develop data pipelines and implement business logic there</li>
+  <li>Conduct investigations of anomalies</li>
+  <li>Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools</li>
  </ul>
 </details>
 <br>
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
-Management of team responsible for the server-side of mobile application  
+Management of the team responsible for the server-side components of the navigation service  
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Designed and developed server-side applications for integrations of our app with partners (eg. Remote-Access-To-Car)</li>
-  <li>Designed service’s dashboards and metrics calculation processes</li>
-  <li>Designed and managed development of proprietary push-service based on WebSocket for our devices</li>
+  <li>Designed and developed server-side applications for the integrations of our app with partners (eg. Remote-Access-To-Car)</li>
+  <li>Implemented service’s dashboards and metrics calculation processes</li>
+  <li>Managed development of push-service for our proprietary devices</li>
   <li>Developed Logs-On-Demand system for our devices</li>
-  <li>Participated in interviewing, onboarding, mentorship, project management</li>
+  <li>Participated in interviewing, onboarding, mentorship, project management routines of the team</li>
   <li>Tools: C++14, PostgreSQL, PlantUML, Yandex-tools</li>
 </ul>
  <i>
  Remote-Access-To-Car Demonstration<br>
- We integrated our navigation app with a telematics-system-partner and that allowed our customers to have access to car features (ignition, locks, etc.) via our app.
- I was responsible for design, scope and development of server components and managed a team of 4 developers, who also worked there.<br><br>
- Here you can see some <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about conducted events and presentation from Yandex Conference related to our project:
+ We integrated our navigation app with the telematics system, so that allowed our customers to have access to car's features (ignition, locks, etc.) via our app.
+ I was responsible for the design and development of server components and managed a team, which was working on these tasks.<br><br>
+ Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about presentation from the conference with a part about our project:
 </i>
  <br>
  <br>
@@ -57,8 +57,8 @@ Training translation models and development of data pipelines
  </ul>
  <i>
  Alternatives-For-Translation Demonstration<br>
- I worked on optimal extraction of probabilities from translation model to allow us to suggest alternative words. Also, I had to alter the model's predictor API.<br><br>
- As a result, we have server API for this kind of task, and here you can see example of this tool's usage on en-ru language pair:
+ I worked on an optimal extraction of probabilities' values from translation model to allow us to suggest alternative words in the translation.<br><br>
+ As a result, we have server API for this task, and here you can see example of this tool's usage on en-ru language pair:
  </i>
  <br>
  <br>
@@ -73,15 +73,15 @@ Server-side development of real time analytical service for mobile applications
 <details align="justify">
  <summary>Details</summary>
  <ul>
-  <li>Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a cloud of microservices</li>
-  <li>Maintained and optimised self-written backend servers layer (140·10^3 RPS of HTTPS in peak)</li>
+  <li>Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a set of microservices in cloud</li>
+  <li>Maintained and optimised self-written backend servers' layer (140·10^3 RPS of HTTPS in peak)</li>
   <li>Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
-  <li>Performed investigations on petabytes of data via MR and SQL</li>
+  <li>Performed investigations on petabytes of data via MR and ClickHouse SQL</li>
   <li>Tools: C++14, Boost, Poco, MySQL, <a href="https://clickhouse.tech/">ClickHouse</a> (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
  </ul>
  <i>
  Logs API Demonstration<br>
- I designed and developed the server side of this API to allow customers to extract logs of their applications from our storage.<br><br>
+ I designed and developed the server side of this API to allow customers extracting logs of their applications from our storage.<br><br>
  Here you can see how process of the data download looks like:
  </i>
  <br>
@@ -93,19 +93,19 @@ Server-side development of real time analytical service for mobile applications
 <br>
 
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
-Development of libraries for CAD/CAM software
+Development of the solutions for the CAD/CAM software
 <details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Was solving sculpture surface machining and computational geometry problems</li>
-  <li>Implemented library for toolpath smoothing and based my master's thesis on it</li>
-  <li>Developed and maintained project of Multiaxis Roughing</li>
+  <li>Implemented library for the toolpath smoothing and based my master's thesis on it</li>
+  <li>Developed and maintained project of Multiaxis Roughing (see below)</li>
   <li>Tools: C++03, Boost, Computational geometry tools, Svn</li>
  </ul>
  <i>
 Multiaxis Roughing Demonstration<br>
 This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
-My aim was actual implementation of an already scoped project and pushing it to production.<br><br>
+My aim was to make an actual implementation of an already scoped project and pushing it to the production.<br><br>
 Here is the marketing demonstration of this tool:
  </i>
  <br>
