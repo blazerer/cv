@@ -34,7 +34,7 @@ Management of the team responsible for the server-side components of the navigat
  <i>
  Remote-Access-To-Car Demonstration<br>
  We integrated our navigation app with the telematics system, so that allowed our customers to have access to car's features (ignition, locks, etc.) via our app.
- I was responsible for the design and development of server components and managed a team, which was working on these tasks.<br><br>
+ Was responsible for the design and development of server components and managed a team, which was working on these tasks.<br><br>
  Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about presentation from the conference with a part about our project:
 </i>
  <br>
@@ -57,13 +57,25 @@ Training translation models and development of data pipelines
  </ul>
  <i>
  Alternatives-For-Translation Demonstration<br>
- I worked on an optimal extraction of probabilities' values from translation model to allow us to suggest alternative words in the translation.<br><br>
- As a result, we have server API for this task, and here you can see example of this tool's usage on en-ru language pair:
+ Worked on an optimal extraction of probabilities' values from translation model to allow us to suggest alternative words in the translation.<br><br>
+ As a result, we obtained server API for this task, and here you can see example of this tool's usage on en-ru language pair:
  </i>
  <br>
  <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
+ <i>
+ Improvement of Turkish Languages Translator and Yakut Language<br>
+ Worked on the multi-language translation models with Tranformer RNNs and tried to find the best experiments' setup by preparation of corpora and tuning of models.
+ In the end, we achieved better quality on the az-ru, kz-ru, uz-ru than our baselines. 
+ Result for the small languages (tatarian, bashkir and yakut) had significant metrics' increase. For the yakut language it was the first registered translation system.
+  Thus, as Yakut language is endangered one but has highly significance for the russian indigenous people, this achievement was reflected in the documentary:
+ </i>
+ <br>
+ <br>
+ <p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/HupI6xOvWkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
 <br>
@@ -81,7 +93,7 @@ Server-side development of real time analytical service for mobile applications
  </ul>
  <i>
  Logs API Demonstration<br>
- I designed and developed the server side of this API to allow customers extracting logs of their applications from our storage.<br><br>
+ Designed and developed the server side of this API to allow customers extracting logs of their applications from our storage.<br><br>
  Here you can see how process of the data download looks like:
  </i>
  <br>
