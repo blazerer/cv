@@ -14,7 +14,7 @@ Antifraud investigations, model training and development of server components
   <li>Train models in highly ambiguous area</li>
   <li>Develop data pipelines and implement business logic there</li>
   <li>Conduct investigations of anomalies</li>
-  <li><b>Tools:</b> Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools</li>
+  <li><Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools</li>
  </ul>
 </details>
 <br>
@@ -29,7 +29,7 @@ Management of the team responsible for the server-side components of the navigat
   <li>Managed development of push-service for our proprietary devices</li>
   <li>Developed Logs-On-Demand system for our devices</li>
   <li>Participated in interviewing, onboarding, mentorship, project management routines of the team</li>
-  <li><b>Tools:</b> C++14, PostgreSQL, PlantUML, Yandex-tools</li>
+  <li>Tools: C++14, PostgreSQL, PlantUML, Yandex-tools</li>
 </ul>
  <i>
  Remote-Access-To-Car Demonstration<br>
@@ -53,7 +53,7 @@ Training translation models and development of data pipelines
   <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
   <li>Improved translation quality on Turkish language family via training new types of neural models, <b>waiting for patent</b></li>
   <li>Implemented Alternatives-For-Translation backend based on neural language model API</li>
-  <li><b>Tools:</b> C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
+  <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
  </ul>
  <i>
  Alternatives-For-Translation Demonstration<br>
@@ -88,7 +88,7 @@ Server-side development of real time analytical service for mobile applications
   <li>Maintained and optimised self-written backend servers' layer (140·10^3 RPS of HTTPS in peak)</li>
   <li>Developed various utils: internal/external APIs, MR-jobs, monitorings and testing solutions</li>
   <li>Performed investigations on petabytes of data via MR and ClickHouse SQL</li>
-  <li><b>Tools:</b> C++14, Boost, Poco, MySQL, <a href="https://clickhouse.tech/">ClickHouse</a> (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
+  <li>Tools: C++14, Boost, Poco, MySQL, <a href="https://clickhouse.tech/">ClickHouse</a> (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
  </ul>
  <i>
  Logs API Demonstration<br>
@@ -111,7 +111,7 @@ Development of the solutions for the CAD/CAM software
   <li>Was solving sculpture surface machining and computational geometry problems</li>
   <li>Implemented library for the toolpath smoothing and based my master's thesis on it</li>
   <li>Developed and maintained project of Multiaxis Roughing (see below)</li>
-  <li><b>Tools:</b> C++03, Boost, Computational geometry tools, Svn</li>
+  <li>Tools: C++03, Boost, Computational geometry tools, Svn</li>
  </ul>
  <i>
 Multiaxis Roughing Demonstration<br>
