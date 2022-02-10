@@ -66,11 +66,10 @@ Training translation models and development of data pipelines
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
  <i>
- Improvement of Turkish Languages Translator and Yakut Language<br>
+ Turkish Languages Translator and Yakut Language<br>
  Worked on the multi-language translation models with Tranformer RNNs and tried to find the best experiments' setup by preparation of corpora and tuning of models.<br><br>
- In the end, we achieved better quality on the az-ru, kz-ru, uz-ru than our baselines. <br>
- Result for the small languages (tatarian, bashkir and yakut) had significant metrics' increase. For the yakut language it was the first registered translation system.<br>
-  Thus, as Yakut language is endangered one but has highly significance for the russian indigenous people, this achievement was reflected in the documentary:
+ In the end, we achieved better quality in comparison to our baselines on the az-ru, kz-ru, uz-ru and other turk languages. <br>
+ For the yakut language it was the first registered translation system. Thus, as Yakut language is endangered one but has highly significance for the russian indigenous people, this achievement was reflected in the documentary:
  </i>
  <br>
  <br>
