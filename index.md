@@ -14,7 +14,7 @@ Antifraud investigations, model training and development of server components
   <li>Train models in highly ambiguous area</li>
   <li>Develop data pipelines and implement business logic there</li>
   <li>Conduct investigations of anomalies</li>
-  <li><Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools</li>
+  <li>Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools</li>
  </ul>
 </details>
 <br>
