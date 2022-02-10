@@ -29,7 +29,7 @@ Management of the team responsible for the server-side components of the navigat
   <li>Managed development of push-service for our proprietary devices</li>
   <li>Developed Logs-On-Demand system for our devices</li>
   <li>Participated in interviewing, onboarding, mentorship, project management routines of the team</li>
-  <li>Tools: C++14, PostgreSQL, PlantUML, Yandex-tools</li>
+  <li>Tools: C++14, PostgreSQL, PlantUML, Java, Yandex-tools</li>
 </ul>
  <i>
  Remote-Access-To-Car Demonstration<br>
