@@ -69,7 +69,7 @@ Training translation models and development of data pipelines
  Turkish Languages Translator and Yakut Language<br>
  Worked on the multi-language translation models with Tranformer RNNs and tried to find the best experiments' setup by preparation of corpora and tuning of models.<br><br>
  In the end, we achieved better quality in comparison to our baselines on the az-ru, kz-ru, uz-ru and other turk languages. <br>
- For the yakut language it was the first registered translation system. Thus, as Yakut language is endangered one but has highly significance for the russian indigenous people, this achievement was reflected in the documentary:
+ Yakut language is endangered one and our translator was the first registered translation system for it. As this language has high significance for the russian indigenous people, this achievement was reflected in the dedicated documentary:
  </i>
  <br>
  <br>
