@@ -2,7 +2,7 @@
 
 _Software engineer based in London, United Kingdom_ <br>
 
-[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer)
+[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf )
 
 ## 💾 Technical Experience
 **SDE** @ Facebook _(Dec 2020 - Present)_ <br>
@@ -167,3 +167,4 @@ Here is the marketing demonstration of this tool:
 * Development of [tg-bot](https://t.me/MusicPracticeBot) for learning CAGED on guitar
 * Swimming, snowboarding
 * Escape rooms, board games, pub quizzes, watching football
+
