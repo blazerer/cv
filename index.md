@@ -18,6 +18,7 @@ Antifraud investigations, model training and development of server components
  </ul>
 </details>
 <br>
+
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
 Management of the team responsible for the server-side components of the navigation service
 <details align="justify">
@@ -42,6 +43,7 @@ Management of the team responsible for the server-side components of the navigat
  </p>
 </details>
 <br>
+
 **Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
 Training translation models and development of data pipelines
 <details align="justify">
@@ -73,6 +75,7 @@ Training translation models and development of data pipelines
  </p>
 </details>
 <br>
+
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
 Server-side development of real time analytical service for mobile applications
 <details align="justify">
@@ -95,6 +98,7 @@ Server-side development of real time analytical service for mobile applications
  </p>
 </details>
 <br>
+
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 Development of the solutions for the CAD/CAM software
 <details align="justify">
