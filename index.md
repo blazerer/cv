@@ -32,7 +32,7 @@ Management of the team responsible for the server-side components of the navigat
   <li>Tools: C++14, PostgreSQL, PlantUML, Java, Yandex-tools</li>
 </ul>
  <i>
- Remote-Access-To-Car Demonstration<br>
+ <b>Remote-Access-To-Car Demonstration</b><br>
  We integrated our navigation app with the telematics system, so that allowed our customers to have access to car's features (ignition, locks, etc.) via our app.
  Was responsible for the design and development of server components and managed a team, which was working on these tasks.<br>
  Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about presentation from the conference with a part about our project:
@@ -55,7 +55,7 @@ Training translation models and development of data pipelines
   <li>Tools: C++14, Python, NLTK, TF, Yandex MapReduce, Transformer RNNs, HG</li>
  </ul>
  <i>
- Alternatives-For-Translation Demonstration<br>
+ <b>Alternatives-For-Translation Demonstration</b><br>
  Worked on an optimal extraction of probabilities' values from translation model to allow us to suggest alternative words in the translation.<br>
  As a result, we obtained server API for this task, and here you can see example of this tool's usage on en-ru language pair:
  </i>
@@ -64,7 +64,7 @@ Training translation models and development of data pipelines
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
  <i>
- Turkish Languages Translator and Yakut Language<br>
+ <b>Turkish Languages Translator and Yakut Language</b><br>
  Worked on the multi-language translation models with Tranformer RNNs and tried to find the best experiments' setup by preparation of corpora and tuning of models.<br>
  In the end, we achieved better quality in comparison to our baselines on the az-ru, kz-ru, uz-ru and other turk languages. <br>
  Yakut language is endangered one and our translator was the first registered translation system for it. As this language has high significance for the russian indigenous people, this achievement was reflected in the dedicated documentary:
@@ -88,7 +88,7 @@ Server-side development of real time analytical service for mobile applications
   <li>Tools: C++14, Boost, Poco, MySQL, <a href="https://clickhouse.tech/">ClickHouse</a> (developed in my department), Nginx, Python, Yandex MapReduce, Apache Zookeeper, Git</li>
  </ul>
  <i>
- Logs API Demonstration<br>
+ <b>Logs API Demonstration</b><br>
  Designed and developed the server side of this API to allow customers extracting logs of their applications from our storage.<br>
  Here you can see how process of the data download looks like:
  </i>
@@ -110,7 +110,7 @@ Development of the solutions for the CAD/CAM software
   <li>Tools: C++03, Boost, Computational geometry tools, Svn</li>
  </ul>
  <i>
-Multiaxis Roughing Demonstration<br>
+<b>Multiaxis Roughing Demonstration</b><br>
 This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
 My aim was to make an actual implementation of an already scoped project and pushing it to the production.<br>
 Here is the marketing demonstration of this tool:
