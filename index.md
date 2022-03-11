@@ -6,7 +6,8 @@ _Software engineer based in London, United Kingdom_ <br>
 
 ## 💾 Technical Experience
 **SDE** @ Big Tech Company _(Dec 2020 - Mar 2022)_ <br>
-Antifraud investigations, model training and development of server components <details align="justify">
+Antifraud investigations, model training and development of server components
+<details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Work in the antifraud field so can't share many details</li>
@@ -18,7 +19,8 @@ Antifraud investigations, model training and development of server components <d
 </details>
 <br>
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
-Management of the team responsible for the server-side components of the navigation service  <details align="justify">
+Management of the team responsible for the server-side components of the navigation service
+<details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Designed and developed server-side applications for the integrations of our app with partners (eg. Remote-Access-To-Car)</li>
@@ -41,7 +43,8 @@ Management of the team responsible for the server-side components of the navigat
 </details>
 <br>
 **Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
-Training translation models and development of data pipelines <details align="justify">
+Training translation models and development of data pipelines
+<details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Designed and developed end-to-end data aggregation pipeline: from application on device to table in the MR-storage</li>
@@ -73,7 +76,8 @@ Training translation models and development of data pipelines <details align="ju
 </details>
 <br>
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
-Server-side development of real time analytical service for mobile applications <details align="justify">
+Server-side development of real time analytical service for mobile applications
+<details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Developed distributed fault-tolerant real-time data pipeline (40·10^9 rows/day) as a set of microservices in cloud</li>
@@ -95,7 +99,8 @@ Server-side development of real time analytical service for mobile applications 
 </details>
 <br>
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
-Development of the solutions for the CAD/CAM software <details align="justify">
+Development of the solutions for the CAD/CAM software
+<details align="justify">
  <summary>Details</summary>
  <ul>
   <li>Was solving sculpture surface machining and computational geometry problems</li>
