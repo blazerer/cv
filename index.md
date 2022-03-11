@@ -5,7 +5,7 @@ _Software engineer based in London, United Kingdom_ <br>
 [Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf )
 
 ## 💾 Technical Experience
-**SDE** @ Facebook _(Dec 2020 - Present)_ <br>
+**SDE** @ Big Tech Company _(Dec 2020 - Present)_ <br>
 Antifraud investigations, model training and development of server components 
 <details align="justify">
  <summary>Details</summary>
@@ -14,7 +14,7 @@ Antifraud investigations, model training and development of server components
   <li>Train models in highly ambiguous area</li>
   <li>Develop data pipelines and implement business logic there</li>
   <li>Conduct investigations of anomalies</li>
-  <li>Tools: Hack, Python, FB ML libraries, Hive/Spark, MySQL, HG, FB-tools</li>
+  <li>Tools: Python, Internal ML libraries, Hive/Spark, MySQL, HG, Internal tools</li>
  </ul>
 </details>
 <br>
