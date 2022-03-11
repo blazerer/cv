@@ -2,7 +2,7 @@
 
 _Software engineer based in London, United Kingdom_ <br>
 
-[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf) 
+[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf) <br>
 
 ## 💾 Technical Experience
 **SDE** @ Big Tech Company _(Dec 2020 - Mar 2022)_ <br>
@@ -138,12 +138,12 @@ Here is the marketing demonstration of this tool:
 * Machine learning
 * Data processing in external memory
 * Tools: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
-
+<br>
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
 * Software development and databases
 * Сomputer architecture and microelectronics
 * Tools: C/C++03, MySQL, PHP, AutoCAD
-
+<br>
 ## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
 * [Topcoder](https://www.topcoder.com/members/blazerer/details/?track=DATA_SCIENCE&subTrack=SRM) max rating: **1808** (2014)
@@ -157,13 +157,13 @@ Here is the marketing demonstration of this tool:
 * Sevastopol summer programming school: **participant** (2010 - 2012)
 * Yandex school of distributional computing: **participant** (2011)
 * Yandex credit scoring contest: **2nd** (2017)
-
+<br>
 ## 💬 Personal Qualities
 * Languages: Russian, English, Ukrainian
 * Able to immerse in any area
 * Communicative
 * Thoughtful
-
+<br>
 ## 🎸 Outside Of Work
 * [FB](https://www.facebook.com/MrBlazerer)
 * [Blog](https://vk.com/blazerer_about_music) about music gigs
