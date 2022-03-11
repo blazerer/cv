@@ -38,7 +38,10 @@ Management of the team responsible for the server-side components of the navigat
  Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about presentation from the conference with a part about our project:
 </i>
  <br>
+ <br>
+ <p>
  <iframe width="560" height="315" src="https://www.youtube.com/embed/28R7JjUjjGY?start=2560" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
 </details>
 <br>
 
@@ -58,6 +61,7 @@ Training translation models and development of data pipelines
  As a result, we obtained server API for this task, and here you can see example of this tool's usage on en-ru language pair:
  </i>
  <br>
+ <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
@@ -67,6 +71,7 @@ Training translation models and development of data pipelines
  In the end, we achieved better quality in comparison to our baselines on the az-ru, kz-ru, uz-ru and other turk languages. <br>
  Yakut language is endangered one and our translator was the first registered translation system for it. As this language has high significance for the russian indigenous people, this achievement was reflected in the dedicated documentary:
  </i>
+ <br>
  <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HupI6xOvWkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -91,6 +96,7 @@ Server-side development of real time analytical service for mobile applications
  Here you can see how process of the data download looks like:
  </i>
  <br>
+ <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
@@ -113,6 +119,7 @@ This toolpath generation algorithm was implemented as a combination of approache
 My aim was to make an actual implementation of an already scoped project and pushing it to the production.<br>
 Here is the marketing demonstration of this tool:
  </i>
+ <br>
  <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
