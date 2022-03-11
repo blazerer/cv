@@ -17,7 +17,6 @@ Antifraud investigations, model training and development of server components
   <li>Tools: Python, Internal ML libraries, Hive/Spark, MySQL, HG, Internal tools</li>
  </ul>
 </details>
-<br>
 
 **Technical lead** @ [Yandex.Auto](https://auto.yandex/promo) _(Jun 2019 - Nov 2020)_ <br>
 Management of the team responsible for the server-side components of the navigation service  
@@ -38,12 +37,10 @@ Management of the team responsible for the server-side components of the navigat
  Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about presentation from the conference with a part about our project:
 </i>
  <br>
- <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/28R7JjUjjGY?start=2560" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
-<br>
 
 **Senior SDE** @ [Yandex.Translator](https://translate.yandex.com/) _(May 2018 - Jun 2019)_ <br>
 Training translation models and development of data pipelines
@@ -77,7 +74,6 @@ Training translation models and development of data pipelines
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HupI6xOvWkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
-<br>
  
 **SDE** @ [Yandex.Appmetrica](https://appmetrica.yandex.com/about) _(Mar 2015 - May 2018)_ <br>
 Server-side development of real time analytical service for mobile applications
@@ -101,7 +97,6 @@ Server-side development of real time analytical service for mobile applications
   <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
-<br>
 
 **SDE** @ [ModuleWorks](https://www.moduleworks.com/) 3ax Team _(Mar 2012 - Feb 2015)_ <br>
 Development of the solutions for the CAD/CAM software
@@ -125,7 +120,6 @@ Here is the marketing demonstration of this tool:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
-<br>
 
 ## 🎓 Education
 **Master program in computer science and data analysis** @ [Yandex Data Analysis School](https://yandexdataschool.com/) _(Sep 2015 - Jun 2017)_ <br>
