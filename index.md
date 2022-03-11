@@ -33,7 +33,7 @@ Management of the team responsible for the server-side components of the navigat
  <i>
  Remote-Access-To-Car Demonstration<br>
  We integrated our navigation app with the telematics system, so that allowed our customers to have access to car's features (ignition, locks, etc.) via our app.
- Was responsible for the design and development of server components and managed a team, which was working on these tasks.<br><br>
+ Was responsible for the design and development of server components and managed a team, which was working on these tasks.<br>
  Here you can see <a href="https://vc.ru/transport/84796-foto-prototip-yandeks-avto-kotoraya-umeet-udalenno-upravlyat-mashinoy-i-sledit-za-ee-sostoyaniem">news post</a> about presentation from the conference with a part about our project:
 </i>
  <br>
@@ -54,21 +54,19 @@ Training translation models and development of data pipelines
  </ul>
  <i>
  Alternatives-For-Translation Demonstration<br>
- Worked on an optimal extraction of probabilities' values from translation model to allow us to suggest alternative words in the translation.<br><br>
+ Worked on an optimal extraction of probabilities' values from translation model to allow us to suggest alternative words in the translation.<br>
  As a result, we obtained server API for this task, and here you can see example of this tool's usage on en-ru language pair:
  </i>
- <br>
  <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/qzsiknOQsZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
  <i>
  Turkish Languages Translator and Yakut Language<br>
- Worked on the multi-language translation models with Tranformer RNNs and tried to find the best experiments' setup by preparation of corpora and tuning of models.<br><br>
+ Worked on the multi-language translation models with Tranformer RNNs and tried to find the best experiments' setup by preparation of corpora and tuning of models.<br>
  In the end, we achieved better quality in comparison to our baselines on the az-ru, kz-ru, uz-ru and other turk languages. <br>
  Yakut language is endangered one and our translator was the first registered translation system for it. As this language has high significance for the russian indigenous people, this achievement was reflected in the dedicated documentary:
  </i>
- <br>
  <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HupI6xOvWkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -88,11 +86,10 @@ Server-side development of real time analytical service for mobile applications
  </ul>
  <i>
  Logs API Demonstration<br>
- Designed and developed the server side of this API to allow customers extracting logs of their applications from our storage.<br><br>
+ Designed and developed the server side of this API to allow customers extracting logs of their applications from our storage.<br>
  Here you can see how process of the data download looks like:
  </i>
  <br>
- <br> 
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/S7wl_8sTrAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
@@ -111,10 +108,9 @@ Development of the solutions for the CAD/CAM software
  <i>
 Multiaxis Roughing Demonstration<br>
 This toolpath generation algorithm was implemented as a combination of approaches between 5ax and 3ax project areas.
-My aim was to make an actual implementation of an already scoped project and pushing it to the production.<br><br>
+My aim was to make an actual implementation of an already scoped project and pushing it to the production.<br>
 Here is the marketing demonstration of this tool:
  </i>
- <br>
  <br>
  <p>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
