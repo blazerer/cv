@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: 👾👾👾
 description: Cloud of competences 
-markdown: kramdown #blackfriday #CommonMarkGhPages 
+markdown: CommonMarkGhPages 
+commonmark:
+  options: ["UNSAFE", "SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
 logo: /tags.png
 google_analytics: 
