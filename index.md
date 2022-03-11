@@ -2,7 +2,9 @@
 
 _Software engineer based in London, United Kingdom_ <br>
 
-[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf)  <br>
+[Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) / [PDF](RomanPeshkurov.pdf) 
+
+<br>
 
 ## 💾 Technical Experience
 **SDE** @ Big Tech Company _(Dec 2020 - Mar 2022)_ <br>
@@ -130,6 +132,7 @@ Here is the marketing demonstration of this tool:
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nHLNZ-Zp-r4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  </p>
 </details>
+
 <br>
 
 ## 🎓 Education
@@ -137,12 +140,16 @@ Here is the marketing demonstration of this tool:
 * Theory of computation
 * Machine learning
 * Data processing in external memory
-* Tools: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne <br>
+* Tools: C++14, Python, Jupyter, OpenMP, Hadoop, Pandas, Sklearn, NLTK, Theano, TF, Keras, Lasagne
+
+<br>
 
 **Master degree in computer engineering** @ Sevastopol National University of Nuclear Energy and Industry _(Sep 2008 - Jan 2014)_ <br>
 * Software development and databases
 * Сomputer architecture and microelectronics
-* Tools: C/C++03, MySQL, PHP, AutoCAD <br>
+* Tools: C/C++03, MySQL, PHP, AutoCAD
+
+<br>
 
 ## 🏆 Achievements 
 * [Codeforces](http://codeforces.com/profile/blazerer) max rating: **1976** (2015)
@@ -156,13 +163,17 @@ Here is the marketing demonstration of this tool:
 * Kharkov winter programming school: **participant** (2010 - 2013)
 * Sevastopol summer programming school: **participant** (2010 - 2012)
 * Yandex school of distributional computing: **participant** (2011)
-* Yandex credit scoring contest: **2nd** (2017) <br>
+* Yandex credit scoring contest: **2nd** (2017)
+
+<br>
 
 ## 💬 Personal Qualities
 * Languages: Russian, English, Ukrainian
 * Able to immerse in any area
 * Communicative
-* Thoughtful <br>
+* Thoughtful
+
+<br>
 
 ## 🎸 Outside Of Work
 * [FB](https://www.facebook.com/MrBlazerer)
