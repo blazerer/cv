@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: 👾👾👾
 description: Cloud of competences 
-markdown: blackfriday #CommonMarkGhPages 
+markdown: GFM #blackfriday #CommonMarkGhPages 
 logo: /tags.png
 google_analytics: 
