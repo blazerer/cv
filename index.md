@@ -5,7 +5,7 @@ _Software engineer based in London, United Kingdom_ <br>
 [Email](mailto:roman.peshkurov@gmail.com) / [LinkedIn](https://www.linkedin.com/in/blazerer) / [Github](https://github.com/blazerer) <!---/[PDF](RomanPeshkurov.pdf ) -->
 
 ## 💾 Technical Experience
-**SDE** @ Big Tech Company _(Dec 2020 - Present)_ <br>
+**SDE** @ Big Tech Company _(Dec 2020 - Mar 2022)_ <br>
 Antifraud investigations, model training and development of server components 
 <details align="justify">
  <summary>Details</summary>
